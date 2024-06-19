@@ -4,11 +4,11 @@
 165,3540371917,KeyBank,Enterprise Data & Analytics Infrastructure Manager,"Cleveland, OH",3252.0,N/A,N/A,FULL_TIME,OH
 283,3742692445,ZenithMinds Inc,Sr Data Engineer with Kafka,"Austin, TX",81941852.0,1.0,N/A,FULL_TIME,TX
 348,3792233622,PB Built,Receptionist/Data Entry,"Jupiter, FL",2331524.0,N/A,N/A,FULL_TIME,FL
-360,3797449314,"Subaru Research and Development, Inc",Cloud Platform/ Big Data Engineer,"Michigan, United States",91080439.0,N/A,Entry level,FULL_TIME,United States
+360,3797449314,"Subaru Research and Development, Inc",Cloud Platform/ Big Data Engineer,"Michigan, United States",91080439.0,N/A,Entry level,FULL_TIME,MI
 366,3800272386,Sovrinti,Data Science Software Engineer,United States,80936343.0,1.0,N/A,FULL_TIME,United States
 367,3800989742,SilverSpace Technologies Inc,Data Engineer/ETL,"Hartford, CT",71373471.0,N/A,N/A,CONTRACT,CT
 389,3813645405,Tenazx Inc,Data Analyst,"Queens, NY",82537206.0,N/A,N/A,CONTRACT,NY
-483,3841003722,N/A,Senior Data Engineer/Analyst - Full Time,"California, United States",N/A,1.0,N/A,FULL_TIME,United States
+483,3841003722,N/A,Senior Data Engineer/Analyst - Full Time,"California, United States",N/A,1.0,N/A,FULL_TIME,CA
 515,3847143087,MDI Imaging & Mail,Data Processor,"Cascades, VA",403183.0,N/A,N/A,FULL_TIME,VA
 670,3872787865,Radiant Systems Inc,eCommerce Data Analyst,United States,3342169.0,1.0,N/A,CONTRACT,United States
 723,3880157614,Acro Service Corp,Data Entry Specialist,"Phoenix, AZ",50861.0,N/A,Entry level,FULL_TIME,AZ
@@ -63,7 +63,7 @@
 3126,3884825494,Noblis,Chief Data Engineer,"Reston, VA",165207.0,N/A,Mid-Senior level,FULL_TIME,VA
 3290,3884831614,Piper Companies,Data Reporting Team Lead,"Oaks, PA",2615835.0,N/A,Mid-Senior level,FULL_TIME,PA
 3298,3884831624,Piper Companies,Data Engineer,"McLean, VA",2615835.0,N/A,Entry level,FULL_TIME,VA
-3325,3884831935,Centene Corporation,"Supervisor, Membership Data Integrity","Missouri, United States",9703.0,1.0,N/A,FULL_TIME,United States
+3325,3884831935,Centene Corporation,"Supervisor, Membership Data Integrity","Missouri, United States",9703.0,1.0,N/A,FULL_TIME,MO
 3407,3884834351,Piper Companies,Data Engineer,"Wayne, PA",2615835.0,N/A,Entry level,FULL_TIME,PA
 3413,3884834385,Discover Financial Services,Principal Business Data Steward,"Riverwoods, IL",3762.0,N/A,Mid-Senior level,FULL_TIME,IL
 3449,3884835255,Discover Financial Services,Principal Business Data Steward (MarTech),"Riverwoods, IL",3762.0,N/A,Mid-Senior level,FULL_TIME,IL
@@ -98,18 +98,18 @@
 5463,3885100805,N/A,Data_Entry_Specialist,United States,N/A,1.0,N/A,FULL_TIME,United States
 5554,3885101852,Ascentt,Data Engineer,"Dallas, TX",230220.0,N/A,N/A,FULL_TIME,TX
 5641,3885102567,Ascentt,Sr. Data Scientist - IoT and Manufacturing,"Dallas, TX",230220.0,N/A,N/A,FULL_TIME,TX
-5668,3885102764,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+5668,3885102764,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,VA
 5715,3885103563,Ascentt,Senior Data Scientist - Forecasting,"Dallas, TX",230220.0,N/A,N/A,FULL_TIME,TX
-5747,3885103769,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+5747,3885103769,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,WA
 5757,3885104113,SAFRICAS INTERNATIONAL,Data_Entry Clerk Part time,United States,22642903.0,1.0,N/A,FULL_TIME,United States
 5789,3885104395,Troy Consultancy,Data migration Architect with Windchill,"Minneapolis, MN",14636892.0,N/A,N/A,CONTRACT,MN
-5826,3885104538,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+5826,3885104538,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,IL
 5842,3885105106,N/A,Data_Entry_Clerk,United States,N/A,1.0,N/A,FULL_TIME,United States
-5996,3885106434,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
-5997,3885106436,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+5996,3885106434,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,CA
+5997,3885106436,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,TX
 6048,3885107883,"Milestone Technologies, Inc.",Database Support Analyst,Los Angeles Metropolitan Area,37768.0,N/A,Mid-Senior level,FULL_TIME,Other
 6066,3885107986,Celebal Technologies,Data Engineer (Internship),"Dallas, TX",27135632.0,N/A,N/A,INTERNSHIP,TX
-6126,3885109052,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+6126,3885109052,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,NY
 6131,3885109602,Fortuna,Oracle Data Integrator - C2C Contract Position,"Albany, New York Metropolitan Area",3741338.0,N/A,Mid-Senior level,CONTRACT,NY
 6182,3885109951,Data Glacier,NLP intern / Data Science intern ( Apr 30) DIN01,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
 6184,3885109955,Data Glacier,Data Analyst/Data Science/NLP (Intern apr 30) DIN01,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
@@ -145,7 +145,7 @@
 6777,3885812023,SynergisticIT,Junior data scientist/software developer,"Austin, Texas Metropolitan Area",66321745.0,1.0,Entry level,FULL_TIME,TX
 6780,3885812100,SynergisticIT,junior java programmer/data scientist,"Houston, TX",66321745.0,1.0,Entry level,FULL_TIME,TX
 6855,3885813688,Bonterra,Data Analytics Engineer,United States,78691110.0,1.0,N/A,FULL_TIME,United States
-6856,3885814035,SynergisticIT,junior data scientist/ data engineer,"Virginia, United States",66321745.0,1.0,Entry level,FULL_TIME,United States
+6856,3885814035,SynergisticIT,junior data scientist/ data engineer,"Virginia, United States",66321745.0,1.0,Entry level,FULL_TIME,VA
 6887,3885814428,Zefr,Multilingual Data Annotation Specialist,"Marina del Rey, CA",2829249.0,N/A,Entry level,FULL_TIME,CA
 6972,3885819980,NFP,SBU Data Processor (VT- Remote),"Montpelier, VT",11566.0,1.0,N/A,FULL_TIME,VT
 6976,3885820475,Seattle Information Technology Department,"Senior Data Engineer - ITP-A, Exempt","Seattle, WA",37248822.0,N/A,Mid-Senior level,FULL_TIME,WA
@@ -188,14 +188,14 @@
 9261,3886475897,Zendesk,"Manager, Data & Analytics",United States,418095.0,1.0,N/A,FULL_TIME,United States
 9277,3886477578,The Judge Group,Data analyst with marketing analytics exp. (1039812),"San Francisco, CA",8117.0,N/A,Entry level,CONTRACT,CA
 9325,3886480488,myGwork - LGBTQ+ Business Community,"Data Strategy Program Manager, VP","Plano, TX",5240076.0,N/A,Entry level,FULL_TIME,TX
-9344,3886481756,myGwork - LGBTQ+ Business Community,JP Morgan Chase Institute - Data Science Research Associate,"Washington, United States",5240076.0,N/A,N/A,FULL_TIME,United States
+9344,3886481756,myGwork - LGBTQ+ Business Community,JP Morgan Chase Institute - Data Science Research Associate,"Washington, United States",5240076.0,N/A,N/A,FULL_TIME,WA
 9347,3886481942,ZipHire,Clinical Research Data Specialist,"Winter Park, FL",80829235.0,N/A,Associate,FULL_TIME,FL
 9360,3886482728,Infocepts Inc,Data Analyst,"Texas City, TX",74969321.0,N/A,N/A,FULL_TIME,TX
 9364,3886482903,N/A,Data Analyst,"Etna, OH",N/A,1.0,N/A,PART_TIME,OH
 9410,3886486393,StepStone Group,Private Wealth Data Science Intern,"Orlando, FL",485531.0,N/A,Internship,INTERNSHIP,FL
 9436,3886814005,EXL,GCP Data Engineer,"Hartford, CT",163743.0,N/A,N/A,FULL_TIME,CT
 9474,3886824626,enableIT,Senior Data Engineer,"Houston, TX",311835.0,N/A,Mid-Senior level,CONTRACT,TX
-9582,3886830826,Cephas Consultancy Services Private Limited,Data Scientist,"California, United States",7940537.0,1.0,N/A,CONTRACT,United States
+9582,3886830826,Cephas Consultancy Services Private Limited,Data Scientist,"California, United States",7940537.0,1.0,N/A,CONTRACT,CA
 9644,3886834001,Ulta Beauty,IT Manager Data Protection,"Bolingbrook, IL",166572.0,N/A,N/A,FULL_TIME,IL
 9726,3886837782,Microsoft,Data Center Technician Manager - CTJ - Top Secret,"Cheyenne, WY",1035.0,N/A,N/A,FULL_TIME,WY
 9900,3886845634,Trilogy International,Data Engineering Manager,"Charlotte, NC",5396344.0,N/A,Mid-Senior level,FULL_TIME,NC
@@ -203,15 +203,15 @@
 9964,3886858353,Collins Aerospace,Senior Software Engineer - ACTT Datalinks (Onsite),"Cedar Rapids, IA",11695727.0,N/A,Mid-Senior level,FULL_TIME,IA
 10095,3886875808,N/A,Data_Entry_Clerk,United States,N/A,1.0,N/A,FULL_TIME,United States
 10115,3886877643,N/A,Data Assistant,"Etna, OH",N/A,1.0,N/A,PART_TIME,OH
-10125,3886877947,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
-10126,3886877951,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
-10156,3886879480,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
-10157,3886879484,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+10125,3886877947,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,CA
+10126,3886877951,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,IL
+10156,3886879480,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,VA
+10157,3886879484,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,NY
 10167,3886879683,EPITEC,Data Coordinator,"Detroit, MI",25461.0,N/A,Associate,CONTRACT,MI
 10210,3886881338,Avesta Computer Services,Senior Data Engineer - Python,United States,34616.0,1.0,Mid-Senior level,FULL_TIME,United States
-10243,3886882309,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+10243,3886882309,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,TX
 10260,3886883057,Avesta Computer Services,Senior ETL Data Engineer,United States,34616.0,1.0,Mid-Senior level,FULL_TIME,United States
-10263,3886883127,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+10263,3886883127,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,WA
 10301,3886885021,Revature,Senior Data Engineer,United States,10510386.0,1.0,Mid-Senior level,FULL_TIME,United States
 10306,3886885164,Great American Insurance Group,Senior Data Developer/Analyst,"Cincinnati, OH",164044.0,N/A,Associate,FULL_TIME,OH
 10316,3886885615,Insight Global,Data Analyst,United States,11056.0,1.0,Associate,CONTRACT,United States
@@ -311,12 +311,12 @@
 15570,3887910367,Gartner,Data Analytics Lead,"Fort Myers, FL",2078.0,N/A,N/A,FULL_TIME,FL
 15580,3887910764,T-Mobile,"Principal Architect, Security Data Platforms","Bellevue, WA",1392.0,N/A,Mid-Senior level,FULL_TIME,WA
 15606,3887911678,T-Mobile,"Product Manager, Contextual Data","Bellevue, WA",1392.0,N/A,Entry level,FULL_TIME,WA
-15888,3887938290,Fareportal,"Head of Data, Associate Vice President","New York, United States",89938.0,N/A,Executive,FULL_TIME,United States
+15888,3887938290,Fareportal,"Head of Data, Associate Vice President","New York, United States",89938.0,N/A,Executive,FULL_TIME,NY
 15929,3887943219,"Elegant Enterprise-Wide Solutions, Inc.",Database Services,"Olympia, WA",66592097.0,N/A,Mid-Senior level,CONTRACT,WA
 15952,3887945490,Tata Consultancy Services,Database Administrator AS400,United States,1353.0,1.0,Entry level,FULL_TIME,United States
 15971,3887948207,"Elegant Enterprise-Wide Solutions, Inc.",Data Analyst 3,"Chesterfield, VA",66592097.0,N/A,Mid-Senior level,CONTRACT,VA
 15981,3887949270,"Elegant Enterprise-Wide Solutions, Inc.",Data Privacy and Compliance Analyst,"Atlanta, GA",66592097.0,N/A,Mid-Senior level,CONTRACT,GA
-16001,3887985722,D. E. Shaw Research,"Software Engineer, Data Infrastructure at D. E. Shaw Research","New York, United States",1030814.0,N/A,Entry level,FULL_TIME,United States
+16001,3887985722,D. E. Shaw Research,"Software Engineer, Data Infrastructure at D. E. Shaw Research","New York, United States",1030814.0,N/A,Entry level,FULL_TIME,NY
 16002,3887985726,Signify Technology,Senior Data Scientist,United States,15087386.0,1.0,Mid-Senior level,FULL_TIME,United States
 16032,3887988563,Signify Technology,Senior Data Scientist,United States,15087386.0,1.0,Mid-Senior level,FULL_TIME,United States
 16158,3887997140,TEKsystems,Entry Level Data Center Technician,"Sandston, VA",2152.0,N/A,Entry level,CONTRACT,VA
@@ -331,7 +331,7 @@
 17745,3888423058,Signify Technology,Vice President of Data,United States,15087386.0,1.0,Executive,FULL_TIME,United States
 17764,3888432795,Jacobs,Transportation Data Scientist,"Austin, TX",4025.0,N/A,N/A,FULL_TIME,TX
 17824,3888472990,Gartner,"Data Management & Technology Expert (Senior Director/Analyst, Remote North America)","Stamford, CT",2078.0,1.0,N/A,FULL_TIME,CT
-17835,3888475408,Humana,Senior Data and Reporting Professional,"Florida, United States",4257.0,1.0,N/A,FULL_TIME,United States
+17835,3888475408,Humana,Senior Data and Reporting Professional,"Florida, United States",4257.0,1.0,N/A,FULL_TIME,FL
 17839,3888476337,Aurum Search Limited,Data Engineer,New York City Metropolitan Area,5382377.0,N/A,Mid-Senior level,FULL_TIME,Other
 17846,3888476608,The Walt Disney Company,Sr Data Scientist,"Lake Buena Vista, FL",1292.0,N/A,Mid-Senior level,FULL_TIME,FL
 17855,3888477541,The Walt Disney Company,Metadata & Systems Technician (PH),"Glendale, CA",1292.0,N/A,Mid-Senior level,FULL_TIME,CA
@@ -345,7 +345,7 @@
 18257,3888825652,tCognition,Database developer,United States,57619.0,1.0,Mid-Senior level,CONTRACT,United States
 18272,3888826255,TechDoQuest,Data Engineer,"Los Angeles, CA",18957106.0,N/A,N/A,FULL_TIME,CA
 18299,3888828147,"GENESYS Consulting Services, Inc.",Data Specialist,"Albany, New York Metropolitan Area",102609.0,N/A,Mid-Senior level,FULL_TIME,NY
-18310,3888931775,Johnson & Johnson,"Pharm Transcend: Sr Manager, Plan & Source Data Lead","New Jersey, United States",1207.0,N/A,N/A,FULL_TIME,United States
+18310,3888931775,Johnson & Johnson,"Pharm Transcend: Sr Manager, Plan & Source Data Lead","New Jersey, United States",1207.0,N/A,N/A,FULL_TIME,NJ
 18348,3888933774,FedEx Dataworks,Data Engineer - All Levels,United States,86967006.0,1.0,N/A,FULL_TIME,United States
 18424,3888937192,Ochsner Health,IS Data Consultant,"New Orleans, LA",25522.0,N/A,Mid-Senior level,FULL_TIME,LA
 18465,3888937935,KACE Company,Data Analyst,"Washington, DC",70896556.0,N/A,Entry level,FULL_TIME,DC
@@ -372,7 +372,7 @@
 20135,3889131110,Cogent Communications,DATA Center Operations Manager -Fort Worth TX,"Fort Worth, TX",163139.0,N/A,Mid-Senior level,FULL_TIME,TX
 20137,3889131112,Cogent Communications,DATA Center Operational Manager -Stockton CA,"Stockton, CA",163139.0,N/A,Mid-Senior level,FULL_TIME,CA
 20152,3889132025,Cogent Communications,"MS SQL, Database Administrator- Washington DC","Washington, DC",163139.0,N/A,Entry level,FULL_TIME,DC
-20200,3889151211,Comcast,Databee Engineering Intern,"Pennsylvania, United States",1703.0,N/A,Internship,FULL_TIME,United States
+20200,3889151211,Comcast,Databee Engineering Intern,"Pennsylvania, United States",1703.0,N/A,Internship,FULL_TIME,PA
 20292,3889172409,Talent Job Seeker,Lead Data Integration Engineer,United States,102368941.0,1.0,Mid-Senior level,FULL_TIME,United States
 20299,3889173190,Talent Job Seeker,"Principal Data Engineer, Analytics Engineering",United States,102368941.0,1.0,Mid-Senior level,FULL_TIME,United States
 20433,3889232447,Homesite Insurance,"Data Analyst, Contact Center Analytics (Flex Home/Office)",Denver Metropolitan Area,25194.0,N/A,Entry level,FULL_TIME,Other
@@ -420,7 +420,7 @@
 23074,3889746099,A-Line Staffing Solutions,Data Entry Specialist,"Lewisville, TX",649388.0,N/A,Entry level,CONTRACT,TX
 23310,3889751839,Gloo Digital,Lead Data Scientist,Atlanta Metropolitan Area,81297729.0,N/A,Mid-Senior level,FULL_TIME,Other
 23379,3889754185,ALOIS Solutions,Senior Data Architect,"Jersey City, NJ",13242175.0,N/A,Mid-Senior level,FULL_TIME,NJ
-23449,3889756865,Matlen Silver,Data Analyst/Engineer Techno Functional Analyst (Jersey City) x2,"New Jersey, United States",16127.0,N/A,N/A,CONTRACT,United States
+23449,3889756865,Matlen Silver,Data Analyst/Engineer Techno Functional Analyst (Jersey City) x2,"New Jersey, United States",16127.0,N/A,N/A,CONTRACT,NJ
 23455,3889757119,ALOIS Solutions,Databricks Data Architect,"Dublin, OH",13242175.0,N/A,Mid-Senior level,FULL_TIME,OH
 23502,3889760028,Tek Tree LLC,Azure Data Architect,"Seattle, WA",3700354.0,N/A,Mid-Senior level,CONTRACT,WA
 23556,3889765984,Agility Partners,Principal Data Engineer,Cincinnati Metropolitan Area,16167895.0,N/A,Mid-Senior level,FULL_TIME,Other
@@ -433,9 +433,9 @@
 23827,3890889935,DATAMETRICS SOFTWARE SYSTEMS INC.,Data Analyst,"Newark, NJ",33046677.0,N/A,N/A,CONTRACT,NJ
 23844,3890890551,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Yonkers, NY",13299.0,1.0,Entry level,CONTRACT,NY
 23851,3890890588,Rylem Staffing,Data Engineer,"Redmond, WA",1003064.0,N/A,Mid-Senior level,CONTRACT,WA
-23888,3890891510,Accolite,Data Engineer,"New York, United States",235348.0,N/A,Mid-Senior level,FULL_TIME,United States
+23888,3890891510,Accolite,Data Engineer,"New York, United States",235348.0,N/A,Mid-Senior level,FULL_TIME,NY
 23891,3890891520,Maxonic,Data Scientist (HR Metrics),United States,21784.0,1.0,Associate,CONTRACT,United States
-23897,3890891551,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Idaho, United States",13299.0,1.0,Entry level,CONTRACT,United States
+23897,3890891551,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Idaho, United States",13299.0,1.0,Entry level,CONTRACT,ID
 23900,3890891574,"AppLab Systems, Inc",Senior Azure Data Engineer,United States,10604245.0,1.0,Mid-Senior level,CONTRACT,United States
 23922,3890891711,Zenith,"Associate Director, Data Governance","New York, NY",167027.0,N/A,Mid-Senior level,FULL_TIME,NY
 23931,3890891860,Publicis Sapient,Data Architect- AWS cloud,"Atlanta, GA",10801655.0,N/A,Mid-Senior level,FULL_TIME,GA
@@ -464,7 +464,7 @@
 24150,3890896134,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Santa Rosa, CA",13299.0,1.0,Entry level,CONTRACT,CA
 24156,3890896149,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Fremont, CA",13299.0,1.0,Entry level,CONTRACT,CA
 24165,3890896231,MatchPoint,Lead Data Analyst,San Francisco Bay Area,223659.0,1.0,Associate,CONTRACT,Other
-24248,3891002049,Sophus IT Solutions,Datasphere Architect,"New York, United States",18106243.0,N/A,Mid-Senior level,CONTRACT,United States
+24248,3891002049,Sophus IT Solutions,Datasphere Architect,"New York, United States",18106243.0,N/A,Mid-Senior level,CONTRACT,NY
 24373,3891009627,"Staff Smart, Inc.",Data Engineer,"New York, NY",381097.0,N/A,Mid-Senior level,FULL_TIME,NY
 24407,3891011139,Mainz Brady Group,Lead Data Scientist,United States,52638.0,1.0,Mid-Senior level,CONTRACT,United States
 24419,3891011775,Ascendum Solutions,Database Administrator - Neo4J,"Cincinnati, OH",28417.0,N/A,Mid-Senior level,CONTRACT,OH
@@ -482,7 +482,7 @@
 24832,3891067775,HCA Healthcare,Data Analyst,Nashville Metropolitan Area,3626.0,N/A,Mid-Senior level,CONTRACT,Other
 24860,3891069596,Publicis Sapient,Manager Data Engineering- AWS Cloud,"New York, NY",10801655.0,N/A,Mid-Senior level,FULL_TIME,NY
 24890,3891069927,Envisionit,"Senior Manager, Marketing Data & Analytics","Chicago, IL",342684.0,N/A,N/A,FULL_TIME,IL
-24892,3891069941,InfoVision Inc.,Data Analyst,"South Dakota, United States",282692.0,N/A,Entry level,CONTRACT,United States
+24892,3891069941,InfoVision Inc.,Data Analyst,"South Dakota, United States",282692.0,N/A,Entry level,CONTRACT,SD
 24895,3891069967,FUSTIS LLC,Data Scientist (Human Services experience),Washington DC-Baltimore Area,87467766.0,N/A,N/A,CONTRACT,Other
 24920,3891070562,Publicis Sapient,Data Engineering Architect- AWS Cloud,"Dallas, TX",10801655.0,N/A,Mid-Senior level,FULL_TIME,TX
 24970,3891070745,The Depository Trust & Clearing Corporation (DTCC),Data Management Senior Analyst,"Tampa, FL",6915.0,N/A,N/A,FULL_TIME,FL
@@ -505,15 +505,15 @@
 25427,3891074620,Technology Hub Inc,Azure Data Engineer,"Plano, TX",18587408.0,N/A,N/A,CONTRACT,TX
 25463,3891074996,Sibitalent Corp,Data Modeler(W2 Contract),"Orlando, FL",31346550.0,N/A,N/A,CONTRACT,FL
 25466,3891075029,Publicis Sapient,Manager Data Engineering- AWS cloud,"Atlanta, GA",10801655.0,N/A,Mid-Senior level,FULL_TIME,GA
-25477,3891075219,InfoVision Inc.,Data Entry Technician,"South Dakota, United States",282692.0,N/A,Associate,CONTRACT,United States
+25477,3891075219,InfoVision Inc.,Data Entry Technician,"South Dakota, United States",282692.0,N/A,Associate,CONTRACT,SD
 25516,3891075420,Enterprise Peak,Senior Data Scientist,United States,2302172.0,1.0,Mid-Senior level,CONTRACT,United States
 25520,3891075442,Data Glacier,Data Science Intern DIN18,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
 25563,3891075843,AtekIT,Data Engineer,"New York, NY",75603990.0,N/A,N/A,FULL_TIME,NY
-25624,3891076249,Office of Energy Infrastructure Safety,Data Engineer,"California, United States",79766923.0,N/A,Associate,FULL_TIME,United States
+25624,3891076249,Office of Energy Infrastructure Safety,Data Engineer,"California, United States",79766923.0,N/A,Associate,FULL_TIME,CA
 25659,3891076521,Optomi,Data Analyst,United States,2684081.0,1.0,Mid-Senior level,CONTRACT,United States
 25669,3891076645,"American Unit, Inc",Data Center Power/Cooling Architect- W2 Position,"Austin, TX",51100.0,N/A,N/A,CONTRACT,TX
 25747,3891077029,Publicis Sapient,Senior Associate Data Engineer - Azure Cloud,"New York, NY",10801655.0,N/A,Mid-Senior level,FULL_TIME,NY
-25870,3891077758,NLB Services,Data Governance Project Manager/Lead,"Georgia, United States",490432.0,N/A,N/A,CONTRACT,United States
+25870,3891077758,NLB Services,Data Governance Project Manager/Lead,"Georgia, United States",490432.0,N/A,N/A,CONTRACT,GA
 25918,3891078246,Digitas North America,"Senior Analyst, Data and Analysis","San Francisco, CA",2465.0,N/A,Mid-Senior level,FULL_TIME,CA
 25968,3891078515,Insight Global,Lead Big Data Engineer (NO SPONSORSHIP),United States,11056.0,1.0,Mid-Senior level,CONTRACT,United States
 25978,3891078903,Optima Bio Supply Ltd,data  entry clerk  .,United States,93223209.0,1.0,N/A,FULL_TIME,United States
@@ -523,7 +523,7 @@
 26173,3891082022,KPG99 INC,Sr. Hadoop Architect / Big data Architect,United States,3815031.0,1.0,N/A,CONTRACT,United States
 26212,3891082655,"TUEREN, Inc.",Technical Consultant SME SAP Data Privacy,United States,18759444.0,1.0,Associate,FULL_TIME,United States
 26306,3891087905,MITRE,Data Management Group Leader,"McLean, VA",3848.0,N/A,Mid-Senior level,FULL_TIME,VA
-26338,3891089693,System Soft Technologies,Data Integrity Analyst (ERP/EDM),"Pennsylvania, United States",1379045.0,N/A,Mid-Senior level,FULL_TIME,United States
+26338,3891089693,System Soft Technologies,Data Integrity Analyst (ERP/EDM),"Pennsylvania, United States",1379045.0,N/A,Mid-Senior level,FULL_TIME,PA
 26370,3891090725,System Soft Technologies,Oracle Database Administrator,"Philadelphia, PA",1379045.0,N/A,Entry level,FULL_TIME,PA
 26405,3891091778,GE Renewable Energy,Global Quality Process Development & Data Analytics Leader,"Clearwater, FL",10279761.0,N/A,Director,FULL_TIME,FL
 26433,3891093340,Experity,"Data Analyst (Go-To-Market Team) - Hybrid / Atlanta, GA","Atlanta, GA",14034745.0,1.0,Entry level,FULL_TIME,GA
@@ -538,7 +538,7 @@
 26857,3891255634,Wimmer Solutions,Sr. Data Analytics Engineer,"Redmond, WA",21541.0,1.0,Mid-Senior level,CONTRACT,WA
 26885,3891256407,"ERGOGUYS, LLC",Data Specialist,United States,16058744.0,1.0,N/A,FULL_TIME,United States
 26912,3891257314,Infotree Global Solutions,Data Scientist,"Austin, TX",35690611.0,N/A,Mid-Senior level,CONTRACT,TX
-26988,3891262862,Makena Partners,Technical Data Steward,"Colorado, United States",2520470.0,1.0,N/A,FULL_TIME,United States
+26988,3891262862,Makena Partners,Technical Data Steward,"Colorado, United States",2520470.0,1.0,N/A,FULL_TIME,CO
 27081,3891265964,EvolutionIQ,VP Data Science,"New York, NY",14070157.0,N/A,Executive,FULL_TIME,NY
 27172,3891267748,Hess Corporation,Sr Data Technician - Well Factory Value Stream,"Houston, TX",5458.0,N/A,Mid-Senior level,FULL_TIME,TX
 27175,3891267783,Planet Pharma,Data Scientist III,"North Chicago, IL",2474662.0,N/A,N/A,FULL_TIME,IL
@@ -550,7 +550,7 @@
 27501,3891276336,Lenovo,"Global Account Sales Executive, Data Center - Midwest Region","Morrisville, NC",3653.0,N/A,N/A,FULL_TIME,NC
 27521,3891276702,Ocado Group,Senior Data Analyst - Ecommerce & Marketing,"Monroe, MI",165276.0,N/A,Mid-Senior level,FULL_TIME,MI
 27547,3891278079,Data Glacier,Data Science Intern DIN19,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
-27639,3891281034,Centene Corporation,Provider Data Coordinator I,"Arizona, United States",9703.0,1.0,N/A,FULL_TIME,United States
+27639,3891281034,Centene Corporation,Provider Data Coordinator I,"Arizona, United States",9703.0,1.0,N/A,FULL_TIME,AZ
 27669,3891282410,FIS,Machine Learning Data Engineer Specialist,"Seattle, WA",3128.0,N/A,Mid-Senior level,FULL_TIME,WA
 27670,3891282411,Russell Tobin,Data Entry Specialist,"Franklin, TN",827183.0,N/A,Entry level,CONTRACT,TN
 27829,3891288752,JPMorgan Chase & Co.,AWS RDS Database Software Engineer II,"Newport Beach, CA",1068.0,N/A,N/A,FULL_TIME,CA
@@ -644,11 +644,11 @@
 30705,3894566119,TEKsystems,Database Support Engineer,"Irving, TX",2152.0,N/A,Entry level,FULL_TIME,TX
 30736,3894567032,New Resources Consulting,Oracle Database Administrator,"Wausau, Wisconsin, United States",13076.0,N/A,Entry level,FULL_TIME,WI
 30863,3894574110,HCA Healthcare,Trauma Data Abstractor Manager,"San Antonio, TX",3626.0,N/A,Mid-Senior level,FULL_TIME,TX
-30937,3894584487,Watershed,Data infrastructure engineer,"New York, United States",68631655.0,1.0,Entry level,FULL_TIME,United States
+30937,3894584487,Watershed,Data infrastructure engineer,"New York, United States",68631655.0,1.0,Entry level,FULL_TIME,NY
 30938,3894584488,Watershed,Data infrastructure engineer,"San Francisco, CA",68631655.0,1.0,Entry level,FULL_TIME,CA
 30948,3894585193,FastTek Global,Data Engineer General,"Dearborn, MI",64550438.0,N/A,Mid-Senior level,FULL_TIME,MI
 30996,3894591217,MMIT (Managed Markets Insight & Technology),Engagement VP - Real World Data,United States,2911058.0,1.0,Executive,FULL_TIME,United States
-31046,3894604357,Humana,"HEDIS Data and Reporting Lead, Medicaid Quality","Kentucky, United States",4257.0,1.0,N/A,FULL_TIME,United States
+31046,3894604357,Humana,"HEDIS Data and Reporting Lead, Medicaid Quality","Kentucky, United States",4257.0,1.0,N/A,FULL_TIME,KY
 31165,3894613123,Russell Tobin,Data Engineer,"Austin, Texas Metropolitan Area",827183.0,1.0,Mid-Senior level,CONTRACT,TX
 31266,3894620411,Spectrum,"Dir, Data Insights","Greenwood Village, CO",18425303.0,N/A,Entry level,FULL_TIME,CO
 31272,3894621228,Spectrum,"Sr Mgr, Data Insights","Greenwood Village, CO",18425303.0,N/A,Mid-Senior level,FULL_TIME,CO
@@ -677,19 +677,19 @@
 32142,3894889949,Comcast,Field Data Science Specialist,"Atlanta, GA",1703.0,N/A,Mid-Senior level,FULL_TIME,GA
 32148,3894890217,CVS Health,ServiceNow Security & Data Protection Engineer,"Woonsocket, RI",4680.0,N/A,Mid-Senior level,FULL_TIME,RI
 32151,3894890392,"r2 Technologies, Inc.", Data Architect (P&C Insurance),United States,77114.0,1.0,Mid-Senior level,FULL_TIME,United States
-32333,3894896852,Compunnel Inc.,Data Entry Clerk,"Florida, United States",16690.0,1.0,Mid-Senior level,CONTRACT,United States
+32333,3894896852,Compunnel Inc.,Data Entry Clerk,"Florida, United States",16690.0,1.0,Mid-Senior level,CONTRACT,FL
 32353,3894897642,InfoStride ,Database Engineer(Aurora),United States,19101288.0,1.0,Mid-Senior level,CONTRACT,United States
 32376,3894899216,Compunnel Inc.,GCP Data Architect,"Columbus, OH",16690.0,N/A,N/A,CONTRACT,OH
 32389,3894899896,OtterBase,Lead Data Engineer,"Nashville, TN",35259.0,1.0,Mid-Senior level,FULL_TIME,TN
 32404,3894900550,Compunnel Inc.,GCP Data Architect,"Columbus, Ohio Metropolitan Area",16690.0,N/A,Mid-Senior level,CONTRACT,OH
 32421,3894902590,Kroger Technology & Digital,Senior Product Manager - Data Governance,"Cincinnati, OH",33303021.0,N/A,Mid-Senior level,FULL_TIME,OH
-32427,3894903014,E-Solutions,Data Scientist,"California, United States",750072.0,N/A,Mid-Senior level,CONTRACT,United States
+32427,3894903014,E-Solutions,Data Scientist,"California, United States",750072.0,N/A,Mid-Senior level,CONTRACT,CA
 32441,3894904791,Sigma Resources LLC,Data Engineer ,"Harrisburg, PA",1098458.0,N/A,Mid-Senior level,FULL_TIME,PA
 32449,3894905126,apexanalytix,Senior Database Administrator,"Greensboro, NC",38489.0,N/A,Mid-Senior level,FULL_TIME,NC
 32506,3894913634,"Pyramid Consulting, Inc", Data Center / System Engineer (Nutanix),"Atlanta, GA",165602.0,N/A,N/A,CONTRACT,GA
 32577,3894922201,Prodware Solutions,Databricks Architect,United States,2045626.0,1.0,Mid-Senior level,FULL_TIME,United States
 32650,3894929673,OcularIT Solutions,Oracle HCM Cloud Technical Developer & Data Conversion,"Fairfax, VA",9432479.0,N/A,N/A,CONTRACT,VA
-32780,3894946919,McKesson,Senior Director – Enterprise Data Engineering,"Illinois, United States",1900.0,N/A,Director,FULL_TIME,United States
+32780,3894946919,McKesson,Senior Director – Enterprise Data Engineering,"Illinois, United States",1900.0,N/A,Director,FULL_TIME,IL
 32807,3894950145,Complete Staffing Solutions,Data Analyst,"Atlanta, GA",1457175.0,N/A,Entry level,FULL_TIME,GA
 32829,3894953007,McKesson,Data Engineer,"Dallas, TX",1900.0,N/A,Entry level,FULL_TIME,TX
 32836,3894953970,DME Express LLC,Data Warehouse Architect,Greater Houston,12960277.0,N/A,Mid-Senior level,FULL_TIME,Other
@@ -721,14 +721,14 @@
 34130,3895271816,"Morgan, Lewis & Bockius LLP",Practice Group Senior Data Analyst,"Philadelphia, PA",5734.0,N/A,Mid-Senior level,FULL_TIME,PA
 34180,3895272957,GE Vernova,Global Quality Process Development & Data Analytics Leader,"Clearwater, FL",82315716.0,N/A,Director,FULL_TIME,FL
 34367,3895487876,Community Foundation for a greater Richmond,Data Analyst,"Richmond, VA",77710.0,N/A,N/A,FULL_TIME,VA
-34636,3895500255,DXC Technology,"Senior Practice Principal -Data, Analytics, AI (US Remote)","Texas, United States",16198010.0,1.0,Director,FULL_TIME,United States
+34636,3895500255,DXC Technology,"Senior Practice Principal -Data, Analytics, AI (US Remote)","Texas, United States",16198010.0,1.0,Director,FULL_TIME,TX
 34666,3895506650,Randstad Digital Americas,Manager Test Engineering Data,"Chicago, IL",157324.0,N/A,N/A,FULL_TIME,IL
 34670,3895507605,Dorkin Inc.,Data Center Technician with Fiber Optics Cabling Experience,"Dallas, TX",3047174.0,N/A,N/A,FULL_TIME,TX
 35047,3895523616,CGI,Data Engineer SME (Data Collection Engines) - U.S. Citizenship Required,"Fairfax, VA",1415.0,N/A,Entry level,FULL_TIME,VA
-35059,3895523929,CareSource,Data Solutions Engineer III (Managed Care - Finance Focus) - R7268,"Ohio, United States",18255.0,N/A,Mid-Senior level,FULL_TIME,United States
+35059,3895523929,CareSource,Data Solutions Engineer III (Managed Care - Finance Focus) - R7268,"Ohio, United States",18255.0,N/A,Mid-Senior level,FULL_TIME,OH
 35155,3895525688,Chime,"Senior/Lead Data Analyst, Finance & Strategy","San Francisco, CA",3738695.0,N/A,Mid-Senior level,FULL_TIME,CA
-35239,3895527225,CareSource,Data Solutions Analyst II (Managed Care - Finance Focus) - R7269,"Ohio, United States",18255.0,N/A,Mid-Senior level,FULL_TIME,United States
-35335,3895529023,CareSource,Data Solutions Engineer II (Managed Care - Clinical Focus) - R7266,"Ohio, United States",18255.0,N/A,Entry level,FULL_TIME,United States
+35239,3895527225,CareSource,Data Solutions Analyst II (Managed Care - Finance Focus) - R7269,"Ohio, United States",18255.0,N/A,Mid-Senior level,FULL_TIME,OH
+35335,3895529023,CareSource,Data Solutions Engineer II (Managed Care - Clinical Focus) - R7266,"Ohio, United States",18255.0,N/A,Entry level,FULL_TIME,OH
 35420,3895531225,Silicon Valley Bank,Marketing Technology Analyst / Data Steward,"San Francisco, CA",492307.0,N/A,N/A,FULL_TIME,CA
 35443,3895531577,Georgia-Pacific LLC,Data Governance Technical Lead,"Atlanta, GA",3411.0,N/A,Mid-Senior level,FULL_TIME,GA
 35568,3895536895,Qumulo,"Software Engineer, Core Data Services","Seattle, WA",2533593.0,N/A,Entry level,FULL_TIME,WA
@@ -747,7 +747,7 @@
 36098,3895548424,WEX,DevOps Engineer\ SQL Server Database Administrator,"Portland, ME",11637.0,N/A,Entry level,FULL_TIME,ME
 36128,3895550226,Salesforce,"IT Product Owner, Sr. Product Analyst - Data Platforms","Atlanta, GA",3185.0,N/A,N/A,FULL_TIME,GA
 36132,3895550373,Wells Fargo,Enterprise Payments Data Analytics Business Analyst,"New York, NY",1235.0,N/A,Associate,FULL_TIME,NY
-36286,3895556914,UBS,Microsoft Azure Data Analytics and BI Lead,"New Jersey, United States",1214.0,N/A,N/A,FULL_TIME,United States
+36286,3895556914,UBS,Microsoft Azure Data Analytics and BI Lead,"New Jersey, United States",1214.0,N/A,N/A,FULL_TIME,NJ
 36287,3895556919,Merck,Associate Director - Data Product Management,"Rahway, NJ",1486.0,N/A,Mid-Senior level,FULL_TIME,NJ
 36413,3895561713,TikTok,TikTok Shop - Data Scientist - User Growth,"Seattle, WA",33246798.0,N/A,N/A,FULL_TIME,WA
 36441,3895563414,UST,Data Platform Engineer Data Mesh/Virtualization,"Austin, TX",12770.0,1.0,Entry level,FULL_TIME,TX
@@ -771,7 +771,7 @@
 37613,3895818119,Cogent Communications,Data Center Operations Manager-Washington DC,"Washington, DC",163139.0,N/A,Mid-Senior level,FULL_TIME,DC
 37622,3895819031,Cogent Communications,DATA Center Operational Manager -Stockton CA,"Stockton, CA",163139.0,N/A,Mid-Senior level,FULL_TIME,CA
 37684,3895827947,Interview Kickstart,Part-time Data Science Mentor,United States,4790142.0,1.0,Mid-Senior level,CONTRACT,United States
-37691,3895828497,Comcast,"Sr. Analyst, HRSD Data & Insights II","Pennsylvania, United States",1703.0,N/A,Mid-Senior level,FULL_TIME,United States
+37691,3895828497,Comcast,"Sr. Analyst, HRSD Data & Insights II","Pennsylvania, United States",1703.0,N/A,Mid-Senior level,FULL_TIME,PA
 37706,3895829596,"Akraya, Inc.",Data Engineer 3: 24-00989,"Austin, TX",41771.0,1.0,Mid-Senior level,FULL_TIME,TX
 37722,3895830502,Interview Kickstart,Part-time Data Engineering Mentor,United States,4790142.0,1.0,Mid-Senior level,PART_TIME,United States
 37893,3895861737, Georgia Pacific,Data Governance Technical Lead,"Atlanta, GA",85677.0,N/A,Mid-Senior level,FULL_TIME,GA
@@ -794,7 +794,7 @@
 38445,3898158978,Softcom Systems Inc,Data Management – Business Data Analyst,"Dallas, TX",13655403.0,N/A,N/A,CONTRACT,TX
 38455,3898159293,Emancro,Machine Learning Operations and Data Engineer,"Berkeley, CA",82537304.0,N/A,N/A,FULL_TIME,CA
 38456,3898159304,TOPSYS IT,Data Scientist with GenAI,"Plano, TX",12991466.0,N/A,N/A,CONTRACT,TX
-38467,3898159341,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Kansas, United States",13299.0,1.0,Entry level,CONTRACT,United States
+38467,3898159341,TransPerfect,Part-Time Remote Project Data Contributor (No experience needed) – WFH - Anywhere in US,"Kansas, United States",13299.0,1.0,Entry level,CONTRACT,KS
 38544,3898159929,GameChanger,"Senior Data Engineer, Governance",United States,1618074.0,1.0,Mid-Senior level,FULL_TIME,United States
 38566,3898160133,blueStone Staffing,Data Analyst 1 - 10315,United States,614775.0,1.0,Associate,CONTRACT,United States
 38583,3898160209,Intellectt Inc,Data Migration Expert ,"Sunnyvale, CA",14632005.0,N/A,Executive,FULL_TIME,CA
@@ -868,7 +868,7 @@
 41283,3899522533,Evergy,Financial and Data Analyst – Regulatory Compliance,"Kansas City, MO",28648492.0,N/A,Mid-Senior level,FULL_TIME,MO
 41359,3899523270,e-Business International Inc,Senior Data Governance Analyst,United States,142571.0,1.0,N/A,CONTRACT,United States
 41371,3899523363,Ehub Global Inc,Lead Data Analyst,"Denver, CO",79482021.0,N/A,Mid-Senior level,CONTRACT,CO
-41390,3899523475,Cerebra Consulting Inc,GENESYS CLOUD DATA MIGRATION(W2 POSITION),"Minnesota, United States",200685.0,1.0,N/A,CONTRACT,United States
+41390,3899523475,Cerebra Consulting Inc,GENESYS CLOUD DATA MIGRATION(W2 POSITION),"Minnesota, United States",200685.0,1.0,N/A,CONTRACT,MN
 41392,3899523484,Agility Partners,Data Engineer,"Charlotte, NC",16167895.0,1.0,Mid-Senior level,FULL_TIME,NC
 41421,3899523703,Reliable Software,Senior Database Administrator,"Lansing, MI",978668.0,N/A,N/A,CONTRACT,MI
 41468,3899524261,"Riverside Staffing, LLC",Data Scientist,"Austin, Texas Metropolitan Area",72234947.0,N/A,Mid-Senior level,FULL_TIME,TX
@@ -881,7 +881,7 @@
 41686,3899526360,Synechron,Sr. SQL Server Database Developer / DBA _NYC / GA,New York City Metropolitan Area,15506.0,N/A,Mid-Senior level,FULL_TIME,Other
 41750,3899526959,TEKGENCE INC,Datacenter Technician,"Memphis, TN",14631354.0,N/A,Mid-Senior level,CONTRACT,TN
 41769,3899527119,Empower Professionals Inc,Lead Datadog Developer/ Lead Automation Developer,United States,8047188.0,1.0,N/A,CONTRACT,United States
-41773,3899527148,Visionaire Partners,Data Center Virtualization Admin ,"Georgia, United States",206800.0,1.0,Mid-Senior level,CONTRACT,United States
+41773,3899527148,Visionaire Partners,Data Center Virtualization Admin ,"Georgia, United States",206800.0,1.0,Mid-Senior level,CONTRACT,GA
 41797,3899527224,PowerToFly,Data Analyst,"Purchase, NY",5150994.0,N/A,N/A,FULL_TIME,NY
 41811,3899527301,Mosaic Labs,Data Engineer,United States,89793096.0,1.0,N/A,CONTRACT,United States
 41817,3899527330,"The ABK Group, LLC",Senior Director - Head of Commercial Data Platforms,United States,97409175.0,1.0,Director,FULL_TIME,United States
@@ -894,7 +894,7 @@
 41990,3899529044,The Ash Group,Databricks Platform Engineer,"Minneapolis, MN",71070.0,N/A,Mid-Senior level,CONTRACT,MN
 41998,3899529161,RJC Group,Lead Data Analyst,"Fairfax County, VA",10333877.0,N/A,Mid-Senior level,CONTRACT,VA
 42042,3899529688,Epsilon,Senior Database Developer,"Irving, TX",3776.0,N/A,Mid-Senior level,FULL_TIME,TX
-42085,3899530235,e-Zest Solutions,Data Architect,"Texas, United States",125527.0,N/A,Director,FULL_TIME,United States
+42085,3899530235,e-Zest Solutions,Data Architect,"Texas, United States",125527.0,N/A,Director,FULL_TIME,TX
 42160,3899531179,"Javen Technologies, Inc.",Data Delivery Coordinator with Merger & Acquisition,United States,3730982.0,1.0,N/A,CONTRACT,United States
 42161,3899531182,Magnit,Claims Data Steward,United States,88289095.0,1.0,Mid-Senior level,CONTRACT,United States
 42171,3899531230,Staffing Technologies,Data Center Construction Project Manager,United States,166124.0,1.0,Mid-Senior level,FULL_TIME,United States
@@ -927,7 +927,7 @@
 42944,3900063729,Russell Tobin,Data Compliance Associate,"Redmond, WA",827183.0,N/A,Associate,CONTRACT,WA
 42992,3900065693,Optima Bio Supply Ltd,Data entry clerk,United States,93223209.0,1.0,N/A,FULL_TIME,United States
 43119,3900069959,Empower Professionals Inc,Data Modeler,"Salisbury, MD",8047188.0,N/A,N/A,CONTRACT,MD
-43238,3900072860,Best High Technologies LLC (BHT),Data Engineer,"New Jersey, United States",9312786.0,1.0,Associate,FULL_TIME,United States
+43238,3900072860,Best High Technologies LLC (BHT),Data Engineer,"New Jersey, United States",9312786.0,1.0,Associate,FULL_TIME,NJ
 43250,3900073114,Confidential,Junior Database Administrator,Greater Philadelphia,2183652.0,N/A,N/A,FULL_TIME,Other
 43260,3900073395,HRUCKUS,Data Analyst,"Washington, DC",5356751.0,N/A,Mid-Senior level,CONTRACT,DC
 43541,3900078899,Tata Consultancy Services,Data Center Engineer,"Atlanta, GA",1353.0,N/A,Entry level,FULL_TIME,GA
@@ -960,8 +960,8 @@
 44749,3900945316,Corteva Agriscience,Demand Forecasting Data & Statistics Analyst,"Indianapolis, IN",18394014.0,N/A,N/A,FULL_TIME,IN
 44788,3900946422,Provision People,Senior Data Engineer,"Norwalk, CT",12951519.0,N/A,Mid-Senior level,FULL_TIME,CT
 44820,3900947017,"Sprout Social, Inc.",Senior Data Scientist,United States,1175268.0,1.0,Mid-Senior level,FULL_TIME,United States
-44840,3900947565,YASH Technologies,Sr AWS Data Engineer,"Pennsylvania, United States",8493.0,1.0,Mid-Senior level,FULL_TIME,United States
-44886,3900949012,ESB Technologies,Azure Data Engineer,"New York, United States",42880798.0,N/A,Mid-Senior level,CONTRACT,United States
+44840,3900947565,YASH Technologies,Sr AWS Data Engineer,"Pennsylvania, United States",8493.0,1.0,Mid-Senior level,FULL_TIME,PA
+44886,3900949012,ESB Technologies,Azure Data Engineer,"New York, United States",42880798.0,N/A,Mid-Senior level,CONTRACT,NY
 44931,3900949927,Insight Global,Data Quality Analyst,"Palo Alto, CA",11056.0,N/A,Associate,CONTRACT,CA
 44952,3900950617,iConsultera,Data Entry Operator,United States,14606618.0,1.0,Entry level,FULL_TIME,United States
 44989,3900950910,Roblox,"Director of Product, Databases","San Mateo, CA",147977.0,N/A,Director,FULL_TIME,CA
@@ -1024,7 +1024,7 @@
 47677,3901168285,"Vector Consulting, Inc",Database Administrator,"Hartford, CT",39838.0,N/A,Mid-Senior level,CONTRACT,CT
 47705,3901169272,Guidehouse,Senior Database Architect,"Arlington, VA",28974109.0,N/A,Mid-Senior level,FULL_TIME,VA
 47732,3901170140,Info Services,Lead Data Engineer with Strong Scala (10 Years Minimum),"Bristol, CT",207595.0,N/A,Mid-Senior level,CONTRACT,CT
-47756,3901170582,"Eos Energy Enterprises, Inc.",Projects & Services Business Data Analyst Intern - Summer,"New Jersey, United States",2442165.0,N/A,Internship,FULL_TIME,United States
+47756,3901170582,"Eos Energy Enterprises, Inc.",Projects & Services Business Data Analyst Intern - Summer,"New Jersey, United States",2442165.0,N/A,Internship,FULL_TIME,NJ
 47760,3901170952,CAMRIS,Data Manager,"Bethesda, MD",205431.0,N/A,Mid-Senior level,FULL_TIME,MD
 47853,3901174835,Turnberry Solutions,Data Product Owner,"Minnetonka, MN",2326570.0,1.0,Director,CONTRACT,MN
 47867,3901175507,Hirexa Solutions,IT Product Support Analyst/Data Analyst,"Wichita, KS",10469647.0,N/A,N/A,CONTRACT,KS
@@ -1053,7 +1053,7 @@
 48633,3901348547,"Collaborate Solutions, Inc",Lead Data Engineer,"Columbia, TN",3223787.0,N/A,N/A,CONTRACT,TN
 48647,3901348758,Intellisoft Technologies,Lead Data Scientist,"Virginia Beach, VA",132625.0,N/A,N/A,CONTRACT,VA
 48648,3901348764,Sun Technologies,Data Analyst,"Orlando, FL",359901.0,N/A,N/A,CONTRACT,FL
-48742,3901349539,ChabezTech LLC,Senior Data Engineer,"Georgia, United States",67168015.0,N/A,Mid-Senior level,CONTRACT,United States
+48742,3901349539,ChabezTech LLC,Senior Data Engineer,"Georgia, United States",67168015.0,N/A,Mid-Senior level,CONTRACT,GA
 48791,3901349965,DataAnnotation,Data Analyst,"Plano, TX",96139831.0,1.0,N/A,CONTRACT,TX
 48963,3901351524,Coast,Lead Data Engineer,New York City Metropolitan Area,78066259.0,N/A,Mid-Senior level,FULL_TIME,Other
 48981,3901351790,4-Serv Solutions Inc,Sr. Data Developer,"Troy, MI",40862622.0,N/A,N/A,CONTRACT,MI
@@ -1072,7 +1072,7 @@
 49505,3901356266,Deloitte,Project Delivery Manager II - Datacenter System Admin and Ops Manager - TSP,"Mechanicsburg, PA",1038.0,N/A,N/A,FULL_TIME,PA
 49582,3901357125,Citizens,Principal Data Scientist,"Westwood, MA",163062.0,N/A,N/A,FULL_TIME,MA
 49643,3901358031,DataAnnotation,Data Analyst,Salt Lake City Metropolitan Area,96139831.0,1.0,N/A,CONTRACT,Other
-49730,3901359166,Angi,Data Platform Engineer,"New York, United States",19263.0,1.0,Entry level,FULL_TIME,United States
+49730,3901359166,Angi,Data Platform Engineer,"New York, United States",19263.0,1.0,Entry level,FULL_TIME,NY
 49737,3901359220,Molina Healthcare,"Sr Analyst, Healthcare Data",United States,15283.0,1.0,Mid-Senior level,FULL_TIME,United States
 49759,3901359801,Georgia State University,"Data Administrator, Intermediate",Atlanta Metropolitan Area,6350.0,N/A,Entry level,FULL_TIME,Other
 49775,3901360108,Rocket Mortgage,Senior Data Analyst,"Detroit, MI",76349528.0,N/A,Mid-Senior level,FULL_TIME,MI
@@ -1129,14 +1129,14 @@
 51434,3901389371,DataAnnotation,Data Analyst,"Brooklyn, NY",96139831.0,1.0,N/A,CONTRACT,NY
 51453,3901389496,Clear Engineering Recruitment,Service Manager - Data Center,"Dulles, VA",11107995.0,N/A,Mid-Senior level,FULL_TIME,VA
 51466,3901389662,Data Glacier,Data Science intern -DIN52,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
-51476,3901389718,Randstad Digital Americas,Database Developer,"Texas, United States",157324.0,N/A,Mid-Senior level,FULL_TIME,United States
+51476,3901389718,Randstad Digital Americas,Database Developer,"Texas, United States",157324.0,N/A,Mid-Senior level,FULL_TIME,TX
 51576,3901390524,DataAnnotation,Data Analyst,"Long Beach, CA",96139831.0,1.0,N/A,CONTRACT,CA
 51643,3901391072,DataAnnotation,Data Analyst,"Fairfax, VA",96139831.0,1.0,N/A,CONTRACT,VA
 51662,3901391155,BravoTECH,Data Analyst (Workday Experience) ,"Richmond, VA",226898.0,N/A,Associate,FULL_TIME,VA
 51665,3901391187,DataAnnotation,Data Analyst,Buffalo-Niagara Falls Area,96139831.0,1.0,N/A,CONTRACT,Other
 51751,3901392127,DataAnnotation,Data Analyst,Omaha Metropolitan Area,96139831.0,1.0,N/A,CONTRACT,Other
 51813,3901392636,DataAnnotation,Data Analyst,"Arlington, VA",96139831.0,1.0,N/A,CONTRACT,VA
-51819,3901392732,Brooksource,Database Administrator,"Ohio, United States",18476.0,1.0,Mid-Senior level,CONTRACT,United States
+51819,3901392732,Brooksource,Database Administrator,"Ohio, United States",18476.0,1.0,Mid-Senior level,CONTRACT,OH
 51830,3901392844,Vaco,Sr. Data Engineer,"Tampa, FL",11229.0,1.0,Mid-Senior level,FULL_TIME,FL
 51867,3901393128,VKore Solutions LLC,AWS Data Engineer (Healthcare domain),United States,43226128.0,1.0,N/A,CONTRACT,United States
 51895,3901393458,Deltek,Generative AI Data Scientist,United States,163414.0,1.0,Mid-Senior level,FULL_TIME,United States
@@ -1168,7 +1168,7 @@
 52841,3901628316,Agility Partners,Data Scientist,"Columbus, Ohio Metropolitan Area",16167895.0,N/A,Mid-Senior level,FULL_TIME,OH
 52948,3901631218,Brightly,Data Analyst,"Cary, NC",79992924.0,1.0,Entry level,FULL_TIME,NC
 52981,3901632079,andros,Data Engineer,United States,3233382.0,1.0,Mid-Senior level,FULL_TIME,United States
-52995,3901632468,i2i Population Health,Data Analyst,"Tennessee, United States",855005.0,1.0,N/A,FULL_TIME,United States
+52995,3901632468,i2i Population Health,Data Analyst,"Tennessee, United States",855005.0,1.0,N/A,FULL_TIME,TN
 53077,3901634997,Chenega Professional Services Strategic  Business Unit,IT Financial Management System and Data Analyst,United States,10958324.0,1.0,Mid-Senior level,FULL_TIME,United States
 53153,3901636789,Carta Healthcare,Clinical Data Abstractor - Cardiology - Chest Pain MI - Part-Time,United States,18706683.0,1.0,Entry level,PART_TIME,United States
 53160,3901637148,"Sira Consulting, an Inc 5000 company",Data Centre -Arista,United States,14628022.0,1.0,Mid-Senior level,CONTRACT,United States
@@ -1242,7 +1242,7 @@
 56029,3901937718,DataAnnotation,Data Analyst,"San Antonio, Texas Metropolitan Area",96139831.0,1.0,N/A,CONTRACT,TX
 56044,3901937792,DataAnnotation,Data Analyst,Huntsville-Decatur-Albertville Area,96139831.0,1.0,N/A,CONTRACT,Other
 56047,3901937798,Aroris,Data Analyst Intern,"Minneapolis, MN",72599488.0,N/A,N/A,FULL_TIME,MN
-56064,3901937859,International Systems Technologies Inc.,Data Modeler,"California, United States",71901687.0,1.0,N/A,CONTRACT,United States
+56064,3901937859,International Systems Technologies Inc.,Data Modeler,"California, United States",71901687.0,1.0,N/A,CONTRACT,CA
 56082,3901937923,Adroit Innovative Solutions Inc,Senior Database Engineer,"Basking Ridge, NJ",82581875.0,N/A,N/A,CONTRACT,NJ
 56104,3901938167,RICEFW Technologies Inc,Database Administrator(SQL & Sybase - Local to Michigan ONLY),"Lansing, MI",2840488.0,N/A,Mid-Senior level,CONTRACT,MI
 56125,3901938294,Brooksource,Data Innovations Implementation Specialist,"Indianapolis, IN",18476.0,1.0,Mid-Senior level,CONTRACT,IN
@@ -1257,7 +1257,7 @@
 56343,3901939220,Data Glacier,Data Science Intern DIN47,United States,69739391.0,1.0,N/A,INTERNSHIP,United States
 56352,3901939271,Evolutyz Corp,Enterprise Data Architect,"Ann Arbor, MI",2241093.0,N/A,Mid-Senior level,CONTRACT,MI
 56377,3901939364,CalSTRS,  Data Architect,"West Sacramento, CA",20339.0,N/A,Associate,FULL_TIME,CA
-56389,3901939429,Smart IT Frame LLC,Databricks Architect,"New Jersey, United States",11692984.0,N/A,Mid-Senior level,FULL_TIME,United States
+56389,3901939429,Smart IT Frame LLC,Databricks Architect,"New Jersey, United States",11692984.0,N/A,Mid-Senior level,FULL_TIME,NJ
 56428,3901939552,DataAnnotation,Data Analyst,San Diego Metropolitan Area,96139831.0,1.0,N/A,CONTRACT,Other
 56502,3901939872,"TWO95 International, Inc",Sr Erwin Data modeler ($100/hr) - 100% Remote Work ,United States,493527.0,1.0,Mid-Senior level,CONTRACT,United States
 56669,3901940631,Airgas,Customer Master Data Specialist,"Lawrenceville, GA",9070.0,N/A,Entry level,FULL_TIME,GA
@@ -1283,7 +1283,7 @@
 57345,3901943424,Sunray Informatics Inc,Sr. Azure Databricks Engineer,"Summit, NJ",2999272.0,N/A,N/A,CONTRACT,NJ
 57348,3901943428,DataAnnotation,Data Analyst,Washington DC-Baltimore Area,96139831.0,1.0,N/A,CONTRACT,Other
 57390,3901943542,Bernhard,Senior Data Analyst,"Metairie, LA",15211162.0,N/A,Mid-Senior level,FULL_TIME,LA
-57416,3901943676,Gainwell Technologies,Database Administrator (DBA)/SQL Server Developer,"Ohio, United States",67155308.0,1.0,Entry level,FULL_TIME,United States
+57416,3901943676,Gainwell Technologies,Database Administrator (DBA)/SQL Server Developer,"Ohio, United States",67155308.0,1.0,Entry level,FULL_TIME,OH
 57558,3901944277,Worky,Software Engineer (Back-end and Databases),NAMER,27046604.0,1.0,Mid-Senior level,FULL_TIME,Other
 57649,3901944728,Angi,Infrastructure Engineer (Data),"Denver, CO",19263.0,1.0,Entry level,FULL_TIME,CO
 57650,3901944729,Angi,Infrastructure Engineer (Data),"Seattle, WA",19263.0,1.0,Entry level,FULL_TIME,WA
@@ -1310,7 +1310,7 @@
 58403,3901950202,Hewlett Packard Enterprise,Product Master Data IT - Functional Analyst,"Durham, NC",1025.0,N/A,N/A,FULL_TIME,NC
 58430,3901950322,MITRE,Data Management and Virtualization Lead,"Bedford, MA",3848.0,N/A,Mid-Senior level,FULL_TIME,MA
 58441,3901950403,Angi,Cloud Infrastructure Engineer (Data),"Denver, CO",19263.0,1.0,Entry level,FULL_TIME,CO
-58442,3901950404,Angi,Infrastructure Engineer (Data),"New York, United States",19263.0,1.0,Entry level,FULL_TIME,United States
+58442,3901950404,Angi,Infrastructure Engineer (Data),"New York, United States",19263.0,1.0,Entry level,FULL_TIME,NY
 58443,3901950460,Emeritus,Data Analyst,United States,10367223.0,1.0,Associate,FULL_TIME,United States
 58455,3901950666,CARFAX,Product Data Analyst,"Centreville, VA",10616.0,N/A,Entry level,FULL_TIME,VA
 58457,3901950668,Piper Companies,Senior Clinical Data Manager,United States,2615835.0,1.0,Mid-Senior level,FULL_TIME,United States
@@ -1346,7 +1346,7 @@
 60017,3901967083,Desert Valley Hospital & Medical Group,Group CDS - Data Quality,"Victorville, CA",8948083.0,N/A,Entry level,FULL_TIME,CA
 60034,3901967136,Onco360 Oncology Pharmacy,Pharmacy Technician - Data Entry/Intake,"Woodridge, IL",307610.0,N/A,Entry level,FULL_TIME,IL
 60049,3901967208,Thrivent,"Engineering Manager, Data Marketplace",United States,6233.0,1.0,Mid-Senior level,FULL_TIME,United States
-60086,3901967299,Chryselys,Director Data Management,"New Jersey, United States",37175224.0,1.0,Director,FULL_TIME,United States
+60086,3901967299,Chryselys,Director Data Management,"New Jersey, United States",37175224.0,1.0,Director,FULL_TIME,NJ
 60090,3901967324,Ehub Global Inc,Data Team Lead,"Denver, CO",79482021.0,N/A,Mid-Senior level,CONTRACT,CO
 60133,3901975995,Prosum,Platform Product Manager (API/Data Mapping),"Irvine, CA",14100.0,1.0,Mid-Senior level,FULL_TIME,CA
 60151,3901976392,e-Business International Inc,MS SQL Server Database Administrator/ Developer,United States,142571.0,1.0,N/A,CONTRACT,United States
@@ -1354,7 +1354,7 @@
 60254,3901977714,bioMérieux,Sr. Data Engineer,"San Jose, CA",162715.0,N/A,Mid-Senior level,FULL_TIME,CA
 60412,3901979221,Sayari,Senior Data Engineer,United States,9414559.0,1.0,N/A,FULL_TIME,United States
 60414,3901979241,Sayari,Forward Deployed Data Engineer - TS/SCI Full Scope Polygraph,Washington DC-Baltimore Area,9414559.0,N/A,N/A,FULL_TIME,Other
-60661,3901981562,Numentica,Data Migration Specialist - M365 Engineer,"Florida, United States",2642477.0,1.0,N/A,CONTRACT,United States
+60661,3901981562,Numentica,Data Migration Specialist - M365 Engineer,"Florida, United States",2642477.0,1.0,N/A,CONTRACT,FL
 60699,3901981845,Intelletec,Senior Data Engineer,"New York, NY",3295320.0,N/A,Mid-Senior level,FULL_TIME,NY
 60718,3901982066,Albertsons Companies,Data Systems Administrator,"Plano, TX",2911.0,N/A,Associate,FULL_TIME,TX
 60859,3901983526,Benjamin Moore,Data Science & Analytics Intern - Summer 2024,"Montvale, NJ",9645.0,N/A,Internship,TEMPORARY,NJ
@@ -1383,9 +1383,9 @@
 62161,3902311925,Ray Techno Solutions,Data Modeler,United States,51592480.0,1.0,N/A,CONTRACT,United States
 62261,3902317341,U.S. Department of Labor,Data Scientist,"Washington, DC",5697.0,N/A,Entry level,FULL_TIME,DC
 62293,3902317975,Thermo Fisher Scientific,BI Data Engineer,"United, PA",3081.0,1.0,N/A,FULL_TIME,PA
-62400,3902320788,Thermo Fisher Scientific,BI Data Engineer,"South Carolina, United States",3081.0,1.0,N/A,FULL_TIME,United States
-62401,3902320789,Thermo Fisher Scientific,BI Data Engineer,"Texas, United States",3081.0,1.0,N/A,FULL_TIME,United States
-62493,3902322819,Thermo Fisher Scientific,BI Data Engineer,"North Carolina, United States",3081.0,1.0,N/A,FULL_TIME,United States
+62400,3902320788,Thermo Fisher Scientific,BI Data Engineer,"South Carolina, United States",3081.0,1.0,N/A,FULL_TIME,SC
+62401,3902320789,Thermo Fisher Scientific,BI Data Engineer,"Texas, United States",3081.0,1.0,N/A,FULL_TIME,TX
+62493,3902322819,Thermo Fisher Scientific,BI Data Engineer,"North Carolina, United States",3081.0,1.0,N/A,FULL_TIME,NC
 62590,3902325150,Thermo Fisher Scientific,Corporate Social Responsibility Associate-Data and Research,"Waltham, MA",3081.0,N/A,N/A,FULL_TIME,MA
 62637,3902326651,Cox Automotive Inc.,Data Sr Analyst,"Austin, TX",3997420.0,N/A,Mid-Senior level,FULL_TIME,TX
 62647,3902326873,myGwork - LGBTQ+ Business Community,Geo Data Evaluator – English (US),United States,5240076.0,1.0,Mid-Senior level,PART_TIME,United States
@@ -1396,20 +1396,20 @@
 62782,3902332273,JPMorgan Chase & Co.,"Data Management Lead, Data Quality","Columbus, OH",1068.0,N/A,N/A,FULL_TIME,OH
 62797,3902333082,Tech Consulting,Data Engineer,New York City Metropolitan Area,95734231.0,N/A,Associate,FULL_TIME,Other
 62849,3902338568,"Paramount Software Solutions, Inc",Data Analyst,"Seattle, WA",467038.0,N/A,N/A,CONTRACT,WA
-62878,3902340477,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+62878,3902340477,ATC,Data Analyst-NY,"New York, United States",2736308.0,N/A,Entry level,FULL_TIME,NY
 62890,3902340711,Randstad Digital,Data Analyst,"Atlanta, GA",98396104.0,N/A,Associate,CONTRACT,GA
-62924,3902341448,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+62924,3902341448,ATC,Data Analyst-WA,"Washington, United States",2736308.0,N/A,Entry level,FULL_TIME,WA
 63012,3902342934,TIMBER,Data Privacy Analyst,Greater Seattle Area,10689129.0,N/A,Mid-Senior level,CONTRACT,Other
-63027,3902343176,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
-63029,3902343179,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+63027,3902343176,ATC,Data Analyst-CA,"California, United States",2736308.0,N/A,Entry level,FULL_TIME,CA
+63029,3902343179,ATC,Data Analyst-IL,"Illinois, United States",2736308.0,N/A,Entry level,FULL_TIME,IL
 63035,3902343261,Stealth,Data Center Infrastructure Manager [28228],"Boston, MA",91313799.0,N/A,Mid-Senior level,FULL_TIME,MA
 63039,3902343369,N/A,Data Engineer,United States,N/A,1.0,N/A,FULL_TIME,United States
 63069,3902343817,Gupta Media,Digital Media Data Analyst,Greater Boston,965942.0,N/A,Entry level,FULL_TIME,Other
 63088,3902344130,Selby Jennings,"Enterprise Data Engineer (Azure, Python, SQL)","Boston, MA",106584.0,N/A,Mid-Senior level,FULL_TIME,MA
-63089,3902344156,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+63089,3902344156,ATC,Data Analyst-VA,"Virginia, United States",2736308.0,N/A,Entry level,FULL_TIME,VA
 63101,3902344386,Golden Technology,Neo4j Database Administrator,United States,2678950.0,1.0,Mid-Senior level,CONTRACT,United States
 63117,3902344465,Ascendion,Senior Azure Cloud Data Engineer,United States,86694680.0,1.0,Mid-Senior level,FULL_TIME,United States
-63151,3902345121,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,United States
+63151,3902345121,ATC,Data Analyst-Tx,"Texas, United States",2736308.0,N/A,Entry level,FULL_TIME,TX
 63324,3902347674,Insight Global,Data Governance Manager,"Richmond, VA",11056.0,1.0,Mid-Senior level,CONTRACT,VA
 63361,3902348215,InfoVision Inc.,Data Entry Technician,"North Sioux City, SD",282692.0,N/A,Entry level,CONTRACT,SD
 63365,3902348278,Vertex Elite LLC,"Data Replication Specialist at Woodlawn, MD","Woodlawn, MD",100955625.0,N/A,Mid-Senior level,CONTRACT,MD
@@ -1422,7 +1422,7 @@
 63677,3902351777,Publicis Sapient,"Principal, Data Strategy","Chicago, IL",10801655.0,N/A,Director,FULL_TIME,IL
 63678,3902351786,Publicis Sapient,"Principal, Data Strategy","Boston, MA",10801655.0,N/A,Director,FULL_TIME,MA
 63690,3902351871,Select Source International,Data Analyst III (Onsite - Only W2/No C2C),"Phoenix, AZ",77097.0,N/A,N/A,CONTRACT,AZ
-63695,3902351922,TEKNIKOZ,SAP MDG (Master Data Governance) ,"New Jersey, United States",84169674.0,N/A,Mid-Senior level,CONTRACT,United States
+63695,3902351922,TEKNIKOZ,SAP MDG (Master Data Governance) ,"New Jersey, United States",84169674.0,N/A,Mid-Senior level,CONTRACT,NJ
 63705,3902351966,V2Soft,Data Engineer,"Auburn Hills, MI",696534.0,N/A,N/A,CONTRACT,MI
 63750,3902352425,Brooksource,Datacap Developer,United States,18476.0,1.0,Mid-Senior level,CONTRACT,United States
 63769,3902352536,Children's Aid,Data Manager,"Bronx, NY",21642.0,N/A,Mid-Senior level,FULL_TIME,NY
@@ -1469,7 +1469,7 @@
 65102,3902366146,CodeForce 360,Tibco Spotfire Data Analyst,"Cincinnati, OH",2627812.0,N/A,N/A,CONTRACT,OH
 65120,3902366315,Insight Global,Database Administrator,United States,11056.0,1.0,Mid-Senior level,CONTRACT,United States
 65126,3902366578,Proliance Consulting,Data Governance and Privacy Implementation Specialist,"Seattle, WA",3787302.0,N/A,N/A,CONTRACT,WA
-65147,3902366872,Smart IT Frame LLC,Databricks Data Engineer,"New York, United States",11692984.0,1.0,Mid-Senior level,FULL_TIME,United States
+65147,3902366872,Smart IT Frame LLC,Databricks Data Engineer,"New York, United States",11692984.0,1.0,Mid-Senior level,FULL_TIME,NY
 65160,3902367164,New Millenium Consulting,NMC_000221 - Data Analyst (W2),"Plano, TX",42379403.0,N/A,Mid-Senior level,CONTRACT,TX
 65169,3902367484,Piper Companies,Enterprise Data Engineer,"Washington, DC",2615835.0,N/A,Entry level,FULL_TIME,DC
 65223,3902368153,Zentek Infosoft ,Big Data Engineer,"Phoenix, AZ",3999028.0,N/A,N/A,CONTRACT,AZ
@@ -1493,7 +1493,7 @@
 65595,3902733734,New Resources Consulting,Data Modeler,"Sun Prairie, WI",13076.0,N/A,Entry level,CONTRACT,WI
 65663,3902735179,Vail Health,Sr. Healthcare Data Analyst,United States,22303218.0,1.0,N/A,FULL_TIME,United States
 65664,3902735207,Eclaro,Mainframe z/OS Physical and Logical DB2 Database Administrator (DBA),"Albany, NY",115116.0,N/A,N/A,FULL_TIME,NY
-65675,3902735397,Dropbox,"Engineering Manager, Data Infrastructure","Maryland, United States",167251.0,1.0,N/A,FULL_TIME,United States
+65675,3902735397,Dropbox,"Engineering Manager, Data Infrastructure","Maryland, United States",167251.0,1.0,N/A,FULL_TIME,MD
 65876,3902737995,Crum & Forster,Senior Data Product Specialist,"Phoenix, AZ",12751.0,N/A,Mid-Senior level,FULL_TIME,AZ
 65959,3902739364,SeaHill Consulting Group,Database Administrator,United States,28160195.0,1.0,Mid-Senior level,CONTRACT,United States
 66072,3902740940,Collabera,Database Administrator Manager,"McLean, VA",24440.0,N/A,Entry level,FULL_TIME,VA
@@ -1502,11 +1502,11 @@
 66200,3902742405,CACI International Inc,Sr. Data Scientist (Modeling),"Charlottesville, VA",3672.0,N/A,Mid-Senior level,PART_TIME,VA
 66596,3902747499,FastTek Global,Sr. Data Developer,"Troy, MI",64550438.0,N/A,Mid-Senior level,FULL_TIME,MI
 66642,3902747771,Cambia Health Solutions,Data Reporting Analyst,"Spokane, WA",2394593.0,N/A,Mid-Senior level,FULL_TIME,WA
-66647,3902747864,UNICEF,"Consultancy - Education and Data and Analytics Consultant, Data and Analytics Team (DAT), DAPM NYHQ (remote-based)","New York, United States",4881.0,N/A,Mid-Senior level,FULL_TIME,United States
+66647,3902747864,UNICEF,"Consultancy - Education and Data and Analytics Consultant, Data and Analytics Team (DAT), DAPM NYHQ (remote-based)","New York, United States",4881.0,N/A,Mid-Senior level,FULL_TIME,NY
 66686,3902748510,Emory University,"Director, Research Data Analytics WHSC","Atlanta, GA",3889.0,N/A,Mid-Senior level,FULL_TIME,GA
 66705,3902748661,ClearBridge Technology Group,Avamar / Data Domain Data Protection Engineer,"New York, NY",803638.0,N/A,Entry level,CONTRACT,NY
 66834,3902750245,USI Insurance Services,Data Specialist I,"Hunt Valley, MD",166732.0,N/A,Entry level,FULL_TIME,MD
-67073,3902752022,NLB Services,Data Modeler,"Delaware, United States",490432.0,1.0,N/A,CONTRACT,United States
+67073,3902752022,NLB Services,Data Modeler,"Delaware, United States",490432.0,1.0,N/A,CONTRACT,DE
 67106,3902752436,Hollister Incorporated,Master Data Specialist; Training,"Libertyville, IL",6683.0,N/A,Entry level,FULL_TIME,IL
 67117,3902752575,Navan,Senior Data Analyst,"Palo Alto, CA",79902774.0,N/A,Mid-Senior level,FULL_TIME,CA
 67151,3902752756,Haley & Aldrich,Data Validator,"Cleveland, OH",17483.0,N/A,Entry level,FULL_TIME,OH
@@ -1533,7 +1533,7 @@
 68226,3902760109,Booz Allen Hamilton,Data Scientist,"Norfolk, VA",1403.0,N/A,N/A,FULL_TIME,VA
 68259,3902760297,Siemens,Head (VP) of Data Center Smart Infrastructure - (REMOTE Major US City),"Nashville, TN",1043.0,1.0,Mid-Senior level,FULL_TIME,TN
 68407,3902762306,In Technology Group Inc (US),Senior Data Analyst,United States,88634456.0,1.0,Mid-Senior level,FULL_TIME,United States
-68459,3902764191,Ferguson ,Enterprise Data Operations Supervisor,"California, United States",163787.0,N/A,Associate,FULL_TIME,United States
+68459,3902764191,Ferguson ,Enterprise Data Operations Supervisor,"California, United States",163787.0,N/A,Associate,FULL_TIME,CA
 68494,3902769245,Publicis,"Senior Associate, Data Engineering - Azure Cloud","Arlington, VA",2819.0,N/A,Mid-Senior level,FULL_TIME,VA
 68652,3902782722,Capital One,Senior Data Engineer,"McLean, VA",1419.0,N/A,Mid-Senior level,FULL_TIME,VA
 68655,3902782725,Capital One,"Senior Manager, Data Science - Audit Analytics & Innovation","McLean, VA",1419.0,N/A,Mid-Senior level,FULL_TIME,VA
@@ -1559,7 +1559,7 @@
 69452,3902810852,The Monaco Group,Direct Mail Data Programmer and Processor ,"Santa Ana, CA",18775833.0,N/A,N/A,FULL_TIME,CA
 69462,3902811539,Jconnect Infotech ,Teradata Developer,"Charlotte, NC",1076320.0,N/A,N/A,FULL_TIME,NC
 69503,3902814236,Nebula,Data Scientist,United States,74511026.0,1.0,N/A,CONTRACT,United States
-69525,3902816146,Discover Financial Services,Senior Manager Data Risk Management,"Illinois, United States",3762.0,N/A,Mid-Senior level,FULL_TIME,United States
+69525,3902816146,Discover Financial Services,Senior Manager Data Risk Management,"Illinois, United States",3762.0,N/A,Mid-Senior level,FULL_TIME,IL
 69533,3902817026,"Hire IT People, Inc",Database Administrator,"Lansing, MI",2403625.0,N/A,N/A,CONTRACT,MI
 69539,3902818173,4A IT Services LLC,Junior Data Engineer,United States,68257427.0,1.0,N/A,CONTRACT,United States
 69634,3902826290,USCTEK - Recruiting & Staffing,Pharma/Biotech- Onsite Lead Data Governance Analyst,"Rensselaer, NY",13637042.0,N/A,N/A,CONTRACT,NY
@@ -1575,7 +1575,7 @@
 69929,3902830674,Eliassen Group,Clinical Data Manager,United States,13816.0,1.0,Mid-Senior level,FULL_TIME,United States
 69978,3902831409,Razorfish,"Intern, Data Science and Analytics (Cloud Infrastructure)","Miami, FL",64738928.0,N/A,Internship,INTERNSHIP,FL
 70000,3902831531,Insight Global,Data Entry Specialist,United States,11056.0,1.0,Associate,CONTRACT,United States
-70016,3902831598,Smart IT Frame LLC,Data bricks Engineer,"New Jersey, United States",11692984.0,N/A,Mid-Senior level,CONTRACT,United States
+70016,3902831598,Smart IT Frame LLC,Data bricks Engineer,"New Jersey, United States",11692984.0,N/A,Mid-Senior level,CONTRACT,NJ
 70061,3902831789,SoftSages Technology,Required Data Consultant - USC GC ONLY - Local to NY,"New York, NY",9428125.0,N/A,N/A,CONTRACT,NY
 70080,3902832388,TekWissen ®,Master Data Coordinator (Entry) ,"Chesterfield, MO",766876.0,N/A,Associate,CONTRACT,MO
 70100,3902832499,Coforge,Data Operations Engineer,"Dallas, TX",31537981.0,N/A,Mid-Senior level,FULL_TIME,TX
@@ -1586,7 +1586,7 @@
 70290,3902834168,Razorfish,"Intern, Data Science and Analytics (DE)","Miami, FL",64738928.0,N/A,Internship,INTERNSHIP,FL
 70306,3902834229,Centraprise,Data Engineer,"Austin, TX",13345578.0,N/A,Mid-Senior level,FULL_TIME,TX
 70326,3902834332,"Q1 Technologies, Inc.",Business Data Analyst- (Full Time/10+year exp*),"Sunnyvale, CA",60561.0,N/A,N/A,FULL_TIME,CA
-70329,3902834352,Pryor Associates Executive Search,Vice President/P&C Actuary/Data Scientist - PR12682,"New Jersey, United States",3715179.0,N/A,Executive,FULL_TIME,United States
+70329,3902834352,Pryor Associates Executive Search,Vice President/P&C Actuary/Data Scientist - PR12682,"New Jersey, United States",3715179.0,N/A,Executive,FULL_TIME,NJ
 70361,3902834483,Brooksource,Data Center Decommission Technician ,"Austin, Texas Metropolitan Area",18476.0,N/A,Mid-Senior level,CONTRACT,TX
 70507,3902837747,RSM US LLP,Financial Data Analyst,"Minneapolis, MN",3743.0,N/A,N/A,FULL_TIME,MN
 70533,3902838650,Experis,Sr Data Engineer,"Philadelphia, PA",2203697.0,N/A,Mid-Senior level,CONTRACT,PA
@@ -1605,11 +1605,11 @@
 70889,3902845128,Ada Infrastructure,Data Center Sales Engineer,"Seattle, WA",95072982.0,N/A,Director,FULL_TIME,WA
 70945,3902846058,Ada Infrastructure,Data Center Architect,Greater Seattle Area,95072982.0,N/A,Mid-Senior level,FULL_TIME,Other
 70949,3902846106,Ada Infrastructure,Data Center Delivery Director ,United States,95072982.0,1.0,Director,FULL_TIME,United States
-70989,3902846506,Cloudbeds,Product Manager - Data Products,"Illinois, United States",3091870.0,1.0,Entry level,FULL_TIME,United States
+70989,3902846506,Cloudbeds,Product Manager - Data Products,"Illinois, United States",3091870.0,1.0,Entry level,FULL_TIME,IL
 71000,3902847065,Ada Infrastructure,"Director, Data Center Electrical Design & Engineering	 ",Greater Seattle Area,95072982.0,N/A,Director,FULL_TIME,Other
 71004,3902847139,Quantum World Technologies Inc.,Test Data Management (TDM) Consultant,"Dallas, TX",13331595.0,N/A,N/A,CONTRACT,TX
-71075,3902848395,Cloudbeds,Product Manager - Data Products,"Texas, United States",3091870.0,1.0,Entry level,FULL_TIME,United States
-71076,3902848398,Cloudbeds,Product Manager - Data Products,"Florida, United States",3091870.0,1.0,Entry level,FULL_TIME,United States
+71075,3902848395,Cloudbeds,Product Manager - Data Products,"Texas, United States",3091870.0,1.0,Entry level,FULL_TIME,TX
+71076,3902848398,Cloudbeds,Product Manager - Data Products,"Florida, United States",3091870.0,1.0,Entry level,FULL_TIME,FL
 71096,3902849082,ACL Digital, Sr. Database Query Enterprise Project Manager ,"Cupertino, CA",67572051.0,N/A,Mid-Senior level,CONTRACT,CA
 71100,3902849116,Ada Infrastructure,"Director, Data Center Security Compliance","Bellevue, WA",95072982.0,N/A,Director,FULL_TIME,WA
 71127,3902849483,Another Source,Data Center Facilities Engineer II - Sabey Data Centers,"Austin, TX",45975.0,N/A,Associate,FULL_TIME,TX
@@ -1638,12 +1638,12 @@
 72741,3902883232,The Reserves Network,Data Entry,"Rolling Meadows, IL",61400.0,N/A,Entry level,CONTRACT,IL
 72780,3902906828,N/A,Data Analyst,"Arlington, VA",N/A,N/A,N/A,FULL_TIME,VA
 72808,3902910362,Cincinnati Children's,Data Engineer I/II (Health Network),"Cincinnati, OH",163049.0,N/A,Entry level,FULL_TIME,OH
-72931,3902914807,First Derivative,Big Data Architect – FX Trading,"Connecticut, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,United States
+72931,3902914807,First Derivative,Big Data Architect – FX Trading,"Connecticut, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,CT
 72933,3902914840,Tetricus Labs,Data Scientist,United States,85401549.0,1.0,N/A,FULL_TIME,United States
-72949,3902915614,First Derivative,Big Data Architect – FX Trading,"Massachusetts, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,United States
-72983,3902916737,First Derivative,Big Data Architect – FX Trading,"New Jersey, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,United States
+72949,3902915614,First Derivative,Big Data Architect – FX Trading,"Massachusetts, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,MA
+72983,3902916737,First Derivative,Big Data Architect – FX Trading,"New Jersey, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,NJ
 73002,3902917066,Extend Information Systems Inc.,AWS Snowflake Data Architect ,"Fort Washington, MD",79879166.0,N/A,Mid-Senior level,CONTRACT,MD
-73024,3902917392,First Derivative,Big Data Architect – FX Trading,"Pennsylvania, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,United States
+73024,3902917392,First Derivative,Big Data Architect – FX Trading,"Pennsylvania, United States",74040923.0,N/A,Mid-Senior level,CONTRACT,PA
 73091,3902918755,Amtex Systems Inc.,Database Administrator,"Hartford, CT",14699670.0,N/A,Mid-Senior level,CONTRACT,CT
 73118,3902919476,Amtex Systems Inc.,System And Database Administrator,"Hartford, CT",14699670.0,N/A,Mid-Senior level,CONTRACT,CT
 73133,3902919654,Nesco Resource,Data Architect,United States,28014.0,1.0,Mid-Senior level,FULL_TIME,United States
@@ -1701,8 +1701,8 @@
 75010,3903444746,Gypsum Management and Supply,Junior Data Analyst,"Tucker, GA",2491610.0,N/A,Entry level,FULL_TIME,GA
 75058,3903445483,Sony Pictures Entertainment,"Senior Manager, People (HR) Data & Analytics","Culver City, CA",1256.0,N/A,Mid-Senior level,FULL_TIME,CA
 75060,3903445489,"Paramount Software Solutions, Inc",Senior Data Scientist,United States,467038.0,1.0,N/A,CONTRACT,United States
-75098,3903445855,Lenovo,Data Center Acquisition Sales - Ohio,"Ohio, United States",3653.0,1.0,Mid-Senior level,FULL_TIME,United States
-75134,3903446546,Kubrick Group,"Data Consultant - No experience required, salaried training","Connecticut, United States",10698880.0,N/A,Entry level,FULL_TIME,United States
+75098,3903445855,Lenovo,Data Center Acquisition Sales - Ohio,"Ohio, United States",3653.0,1.0,Mid-Senior level,FULL_TIME,OH
+75134,3903446546,Kubrick Group,"Data Consultant - No experience required, salaried training","Connecticut, United States",10698880.0,N/A,Entry level,FULL_TIME,CT
 75170,3903447159,OpenWeb,Data Engineer,United States,2506872.0,1.0,Associate,FULL_TIME,United States
 75219,3903447822,Quess US,Lead Data Engineer (W2) (REMOTE),United States,82149043.0,1.0,Mid-Senior level,CONTRACT,United States
 75222,3903447882,AllSTEM Connections,Principal Data Information Architect,"Oakland, CA",35475885.0,N/A,Mid-Senior level,FULL_TIME,CA
@@ -1731,7 +1731,7 @@
 75723,3903456425,STONE Resource Group,Data Scientist,Atlanta Metropolitan Area,1211135.0,N/A,Mid-Senior level,FULL_TIME,Other
 75772,3903457330,Systellar Technologies,Data Analyst (Only W2),"Juno Beach, FL",88278515.0,N/A,N/A,CONTRACT,FL
 75792,3903457662,Optima Bio Supply Ltd,Data Entry clerk.,United States,93223209.0,1.0,N/A,FULL_TIME,United States
-75856,3903459073,Bicara Therapeutics,Senior Manager - Clinical Data Management,"Massachusetts, United States",64592943.0,N/A,Mid-Senior level,FULL_TIME,United States
+75856,3903459073,Bicara Therapeutics,Senior Manager - Clinical Data Management,"Massachusetts, United States",64592943.0,N/A,Mid-Senior level,FULL_TIME,MA
 75860,3903459107,Olsson,Commissioning Specialist - Data Center,"Lincoln, NE",20374.0,N/A,Mid-Senior level,FULL_TIME,NE
 75867,3903459205,VideoAmp,Senior Data Engineer,United States,3704165.0,1.0,Mid-Senior level,FULL_TIME,United States
 75963,3903461431,INSPYR Solutions,Sr. Data Analyst,"Deerfield Beach, FL",1742506.0,N/A,Mid-Senior level,FULL_TIME,FL
@@ -1744,7 +1744,7 @@
 76520,3903472601,Booz Allen Hamilton,Data Governance and Standards Specialist,"Atlanta, GA",1403.0,1.0,N/A,FULL_TIME,GA
 76523,3903472617,Sagility,"Consultant II, Lead Consultant Data Supervisor",United States,76202589.0,1.0,N/A,FULL_TIME,United States
 76625,3903473732,Viatris,"Intern, Data Analyst (Projects) IOAO Supply Chain",United States,52143761.0,1.0,Internship,FULL_TIME,United States
-76660,3903474085,GSA,Supervisory Data Scientist - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Mid-Senior level,PART_TIME,United States
+76660,3903474085,GSA,Supervisory Data Scientist - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Mid-Senior level,PART_TIME,IN
 76666,3903474276,Optima Bio Supply Ltd,Data Entry  clerk.,United States,93223209.0,1.0,N/A,FULL_TIME,United States
 76760,3903475191,The Mom Project,Data Engineer,"Richardson, TX",10420321.0,N/A,Entry level,CONTRACT,TX
 76789,3903475356,Dechra,"Data Administrator, Supply Chain (1 year project)","Los Angeles County, CA",981244.0,N/A,Entry level,CONTRACT,CA
@@ -1818,7 +1818,7 @@
 78768,3903816638,Medix Technology,Associate Database Administrator (226109),"Houston, TX",27239179.0,N/A,Associate,FULL_TIME,TX
 78813,3903817575,System Soft Technologies,"Associate Database Engineer - MySQL/MariaDB/NoSQL – Direct Hire – Hybrid Onsite Philadelphia area – USC, GC, W-2 – no C2C","Philadelphia, PA",1379045.0,N/A,Mid-Senior level,FULL_TIME,PA
 78876,3903818851,Schindler Group,INTERN - Data Quality,"Morristown, NJ",6191.0,N/A,Internship,FULL_TIME,NJ
-78912,3903819271,"Aptino, Inc.",Oracle DBA with Exadata,"California, United States",13672385.0,N/A,Mid-Senior level,CONTRACT,United States
+78912,3903819271,"Aptino, Inc.",Oracle DBA with Exadata,"California, United States",13672385.0,N/A,Mid-Senior level,CONTRACT,CA
 79003,3903821343,Conspicuous,Data Engineer (D365 F&O) - Up to $130k base + benefits USD - Remote (USA) - Global manufacturing organization,United States,1323519.0,1.0,Mid-Senior level,FULL_TIME,United States
 79020,3903821558,Qualitest,#13644 - Data Collection Associate,"Los Angeles, CA",16101.0,N/A,Entry level,FULL_TIME,CA
 79074,3903822449,Bio-Techne,Seasonal Intern: Cell Therapy Customer Support & Data Maintenance,"Minneapolis, MN",9434280.0,N/A,Internship,INTERNSHIP,MN
@@ -1841,7 +1841,7 @@
 79618,3903829210,FanDuel,Data Engineering Director,"New York, NY",1821549.0,N/A,Director,FULL_TIME,NY
 79672,3903830118,FanDuel,Cybersecurity Data Engineer,"New York, NY",1821549.0,N/A,Entry level,FULL_TIME,NY
 79724,3903830854,Optima Bio Supply Ltd,data  Entry  Clerk.,United States,93223209.0,1.0,N/A,FULL_TIME,United States
-79795,3903831558,Aditi Consulting,Data Engineer,"Ohio, United States",2985733.0,N/A,Entry level,FULL_TIME,United States
+79795,3903831558,Aditi Consulting,Data Engineer,"Ohio, United States",2985733.0,N/A,Entry level,FULL_TIME,OH
 79818,3903832049,HCLTech,Data Lake Architect @ ONSITE,"Bothell, WA",1756.0,N/A,Mid-Senior level,FULL_TIME,WA
 79841,3903832207,Argano,Senior Data Engineer,United States,22582874.0,1.0,Mid-Senior level,FULL_TIME,United States
 79848,3903832397,Quess US,Data Analyst - Python/AWS (W2) (REMOTE),United States,82149043.0,1.0,Mid-Senior level,CONTRACT,United States
@@ -1854,21 +1854,21 @@
 80320,3903840800,Optima Bio Supply Ltd,data entry Clerk.,United States,93223209.0,1.0,N/A,FULL_TIME,United States
 80375,3903841116,Major League Soccer,"Manager, Soccer Analytics & Data Science","New York, NY",164827.0,N/A,Mid-Senior level,FULL_TIME,NY
 80390,3903841451,CalPERS,Senior Data Modeler,"Sacramento, CA",2654.0,N/A,Mid-Senior level,FULL_TIME,CA
-80396,3903841469,Humana,"HEDIS Data and Reporting Lead, Medicaid Quality","Kentucky, United States",4257.0,1.0,N/A,FULL_TIME,United States
-80498,3903842339,GSA,Data Scientist (CYBERSECURITY) - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Director,FULL_TIME,United States
+80396,3903841469,Humana,"HEDIS Data and Reporting Lead, Medicaid Quality","Kentucky, United States",4257.0,1.0,N/A,FULL_TIME,KY
+80498,3903842339,GSA,Data Scientist (CYBERSECURITY) - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Director,FULL_TIME,IN
 80525,3903842459,"Mission Technologies, a division of HII",Data Governance Manager,Greater Bangor Area,84824199.0,N/A,Mid-Senior level,FULL_TIME,Other
 80561,3903842720,Raymond James,Business Systems Analyst (Data Integrations),"Pittsburgh, PA",4207.0,N/A,N/A,FULL_TIME,PA
 80573,3903842863,"Peckham, Inc.",TM-Supply Chain Data Entry Clerk,"Lansing, MI",146282.0,N/A,Entry level,FULL_TIME,MI
 80644,3903843318,QinetiQ US,Data Quality Assurance Administrator,"Chantilly, VA",10261.0,N/A,Entry level,FULL_TIME,VA
 80849,3903844869,Primary Talent Partners,Data Entry Specialist,"Fort Myers, FL",35495217.0,N/A,Entry level,FULL_TIME,FL
 80872,3903845062,Deluxe,Processing Specialist II - Data Entry 3rd Shift,"Monterey Park, CA",4768.0,N/A,Entry level,FULL_TIME,CA
-80875,3903845073,Parsons Corporation,"HR Reporting & Data Analytics, Senior Consultant","Virginia, United States",4898.0,1.0,Entry level,FULL_TIME,United States
+80875,3903845073,Parsons Corporation,"HR Reporting & Data Analytics, Senior Consultant","Virginia, United States",4898.0,1.0,Entry level,FULL_TIME,VA
 80892,3903845177,Haley & Aldrich,Data Validator,"Helena, MT",17483.0,N/A,Entry level,FULL_TIME,MT
 80895,3903845190,Collabera,Data Transformation Professional,"New York, NY",24440.0,N/A,Entry level,CONTRACT,NY
 80907,3903845232,CIBC US,Data Engineer,"Chicago, IL",25040356.0,N/A,Entry level,FULL_TIME,IL
 80960,3903845813,Intelliswift Software,Junior Data Analyst,"Plano, TX",30324.0,N/A,N/A,CONTRACT,TX
 80986,3903846042,Google,"Technical Program Manager, Structuring Analyst, Data Centers","New York, NY",1441.0,N/A,N/A,FULL_TIME,NY
-80988,3903846050,GSA,Data Scientist (CYBERSECURITY) - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Director,FULL_TIME,United States
+80988,3903846050,GSA,Data Scientist (CYBERSECURITY) - Technology Transformation Service,"Indiana, United States",5353.0,1.0,Director,FULL_TIME,IN
 81040,3903846324,Booz Allen Hamilton,"Data Engineer, Mid","San Diego, CA",1403.0,N/A,N/A,FULL_TIME,CA
 81041,3903846326,Booz Allen Hamilton,"Data Engineer, Mid","San Diego, CA",1403.0,N/A,N/A,FULL_TIME,CA
 81070,3903846556,C2FO,Engineering Manager - Data Engineering,Kansas City Metropolitan Area,1555109.0,N/A,Mid-Senior level,FULL_TIME,Other
@@ -1996,9 +1996,9 @@
 87199,3904388514,Health Care Service Corporation,Data Analyst,"Richardson, TX",1075434.0,N/A,N/A,FULL_TIME,TX
 87218,3904388576,TD,Audit Manager II Data Risk,"Greenville, SC",2775.0,N/A,Mid-Senior level,FULL_TIME,SC
 87235,3904388619,Compunnel Inc.,Data Modeler,"Charlotte, NC",16690.0,N/A,Mid-Senior level,CONTRACT,NC
-87244,3904388641,Unified Women's Healthcare,Data Analyst- Business Intelligence,"Florida, United States",14806044.0,1.0,N/A,FULL_TIME,United States
+87244,3904388641,Unified Women's Healthcare,Data Analyst- Business Intelligence,"Florida, United States",14806044.0,1.0,N/A,FULL_TIME,FL
 87421,3904389456,"BAE Systems, Inc.",SQL Server Database Administrator/Database Engineer Sr,"Washington, DC",1881.0,N/A,Mid-Senior level,FULL_TIME,DC
-87454,3904389544,Unified Women's Healthcare,Data Scientist,"Florida, United States",14806044.0,1.0,N/A,FULL_TIME,United States
+87454,3904389544,Unified Women's Healthcare,Data Scientist,"Florida, United States",14806044.0,1.0,N/A,FULL_TIME,FL
 87455,3904389545,Coders Data,Data Analyst,New York City Metropolitan Area,14508644.0,1.0,Entry level,FULL_TIME,Other
 87490,3904389668,Aurora,Senior Staff Software Engineer - Autonomy Data: MP Data Engine,"Mountain View, CA",17973173.0,N/A,Mid-Senior level,FULL_TIME,CA
 87512,3904389772,California Department of Health Care Services,Data Ops Specialist (Hybrid Option),"Sacramento, CA",3753860.0,N/A,Entry level,FULL_TIME,CA
@@ -2014,7 +2014,7 @@
 88012,3904392160,Turner & Townsend,Senior Project Manager - Data Center Construction,"Hickory, NC",11011.0,N/A,Mid-Senior level,FULL_TIME,NC
 88240,3904393193,Ford Motor Company,Sr. Data Engineering Manager,"Dearborn, MI",1483.0,N/A,N/A,FULL_TIME,MI
 88310,3904393431,Cogent Communications,Data Center Operations Manager-Houston Texas,"Houston, TX",163139.0,N/A,Mid-Senior level,FULL_TIME,TX
-88409,3904394195,The Trade Desk,"Associate General Counsel, Data Governance","New York, United States",892001.0,N/A,Mid-Senior level,FULL_TIME,United States
+88409,3904394195,The Trade Desk,"Associate General Counsel, Data Governance","New York, United States",892001.0,N/A,Mid-Senior level,FULL_TIME,NY
 88470,3904394399,Cogent Communications,Data Center Operations Manager-Washington DC,"Washington, DC",163139.0,N/A,Mid-Senior level,FULL_TIME,DC
 88489,3904394509,CCS Global Tech,Entry Level Data Analyst,"San Diego, CA",344299.0,N/A,Entry level,FULL_TIME,CA
 88521,3904395057,Shift4,VP of Data Systems,United States,27200360.0,1.0,Mid-Senior level,FULL_TIME,United States
@@ -2023,7 +2023,7 @@
 88933,3904404309,Backblaze,Data Center Facilities Manager,"Chandler, AZ",2749627.0,N/A,Mid-Senior level,FULL_TIME,AZ
 88934,3904404326,United States Olympic & Paralympic Committee,Data Engineer,"Colorado Springs, CO",13795.0,N/A,Mid-Senior level,FULL_TIME,CO
 89005,3904406011,"Akraya, Inc.",Business Data Analyst III :24-01044,"San Diego, CA",41771.0,N/A,Mid-Senior level,FULL_TIME,CA
-89071,3904406953,DXC Technology,Sr Practice Principal - Data/Analytics/AI,"Virginia, United States",16198010.0,1.0,Director,FULL_TIME,United States
+89071,3904406953,DXC Technology,Sr Practice Principal - Data/Analytics/AI,"Virginia, United States",16198010.0,1.0,Director,FULL_TIME,VA
 89133,3904407835,Uber,"Manager II, Data Science","San Francisco, CA",1815218.0,N/A,Mid-Senior level,FULL_TIME,CA
 89176,3904408437,Jefferson Wells USA,GDPR Senior Data Protection Consultant,"Bolingbrook, IL",66766209.0,N/A,Mid-Senior level,CONTRACT,IL
 89238,3904409346,GoodRx,Data Engineer III,"Seattle, WA",2466850.0,N/A,Mid-Senior level,FULL_TIME,WA
@@ -2055,7 +2055,7 @@
 91098,3904500818,Bank of China USA,Data Quality & Analytics AVP ,New York City Metropolitan Area,77876545.0,N/A,Mid-Senior level,FULL_TIME,Other
 91122,3904501264,Akkodis,SQL Database Administrator (AWS Experience),"King of Prussia, PA",79383535.0,N/A,Mid-Senior level,CONTRACT,PA
 91173,3904502155,Bank of China USA,Data Governance & Record Retention Associate,New York City Metropolitan Area,77876545.0,N/A,Entry level,FULL_TIME,Other
-91281,3904504945,Dropbox,"Director, Data Science - Marketing","Tennessee, United States",167251.0,1.0,N/A,FULL_TIME,United States
+91281,3904504945,Dropbox,"Director, Data Science - Marketing","Tennessee, United States",167251.0,1.0,N/A,FULL_TIME,TN
 91282,3904504971,My3Tech,DataPower Admin,United States,1975865.0,1.0,Mid-Senior level,CONTRACT,United States
 91325,3904505928,"GAP Solutions, Inc.",Data Manager,"Bethesda, MD",101796.0,N/A,Mid-Senior level,FULL_TIME,MD
 91379,3904507190,Collabera,Customer Service/ Data Entry,"Fallon, MT",24440.0,N/A,Entry level,CONTRACT,MT
@@ -2121,7 +2121,7 @@
 93501,3904716772,Sumeru Inc,Data Scientist,United States,9901130.0,1.0,N/A,CONTRACT,United States
 93514,3904716857,Global Payments Inc.,ACH Data Analyst,"Oklahoma City, OK",164006.0,1.0,Entry level,FULL_TIME,OK
 93555,3904717397,Fullstory,"Software Engineer, Data Engine",United States,3654338.0,1.0,N/A,FULL_TIME,United States
-93566,3904717607,Seattle Children's,Data Scientist I,"Washington, United States",163020.0,N/A,Entry level,FULL_TIME,United States
+93566,3904717607,Seattle Children's,Data Scientist I,"Washington, United States",163020.0,N/A,Entry level,FULL_TIME,WA
 93618,3904717996,Google,"Senior Data Scientist, Research","San Bruno, CA",1441.0,N/A,Mid-Senior level,FULL_TIME,CA
 93620,3904718054,"Method360, Inc.",Product Owner - Data Science,"Chicago, IL",145944.0,N/A,Director,CONTRACT,IL
 93632,3904718097,BizCoder AI,Data Scientist,United States,88405569.0,1.0,N/A,FULL_TIME,United States
@@ -2135,7 +2135,7 @@
 94064,3904722490,Booz Allen Hamilton,Data Scientist,"Melbourne, FL",1403.0,1.0,N/A,FULL_TIME,FL
 94205,3904723449,MUFG,Data Analyst (AVP Position),"Tampa, FL",3795888.0,N/A,Entry level,FULL_TIME,FL
 94313,3904724315,Nesco Resource,Data Entry clerk,"Dublin, OH",28014.0,N/A,Entry level,FULL_TIME,OH
-94334,3904724474,Invitation Homes,Remote Data Architect,"Illinois, United States",2780388.0,1.0,Mid-Senior level,FULL_TIME,United States
+94334,3904724474,Invitation Homes,Remote Data Architect,"Illinois, United States",2780388.0,1.0,Mid-Senior level,FULL_TIME,IL
 94504,3904725790,RTeams,Data Scientist,United States,90947088.0,1.0,N/A,FULL_TIME,United States
 94512,3904726091,Booz Allen Hamilton,Data Architect,"Hickam Village, HI",1403.0,N/A,N/A,FULL_TIME,HI
 94518,3904726122,Google,"Data Center Facilities Technician, Electrical","Reno, NV",1441.0,N/A,N/A,FULL_TIME,NV
@@ -2160,10 +2160,10 @@
 95928,3904939986,TELUS International,Online Data Analyst,"Bennington, VT",1258653.0,1.0,Entry level,PART_TIME,VT
 96010,3904941170,TELUS International,Online Data Analyst,"Garland, TX",1258653.0,1.0,Entry level,PART_TIME,TX
 96018,3904941287,GlobalSource IT,Master Data Analyst,Greater Minneapolis-St. Paul Area,74827.0,N/A,Associate,CONTRACT,Other
-96036,3904941546,TELUS International,Online Data Analyst,"Vermont, United States",1258653.0,1.0,Entry level,PART_TIME,United States
+96036,3904941546,TELUS International,Online Data Analyst,"Vermont, United States",1258653.0,1.0,Entry level,PART_TIME,VT
 96056,3904941769,ClearanceJobs,Data Analyst with Security Clearance,"Quantico, VA",1007957.0,N/A,Entry level,FULL_TIME,VA
 96058,3904941773,Apex Systems,Mailroom/Data Capture Clerk,"Apex, NC",4787.0,N/A,Entry level,FULL_TIME,NC
-96082,3904942066,TELUS International,Online Data Analyst,"Texas, United States",1258653.0,1.0,Entry level,PART_TIME,United States
+96082,3904942066,TELUS International,Online Data Analyst,"Texas, United States",1258653.0,1.0,Entry level,PART_TIME,TX
 96094,3904942258,TEK Connexion,"Database/Linux Administrator - W2 Only - Pittsburgh, Birmingham, Dallas, Cleveland or Phoenix","Dallas, TX",445686.0,N/A,Mid-Senior level,CONTRACT,TX
 96133,3904942700,TELUS International,Online Data Analyst,"Manchester, VT",1258653.0,1.0,Entry level,PART_TIME,VT
 96201,3904943673,Compunnel Inc.,Data Engineer,"Merrimack County, NH",16690.0,N/A,Mid-Senior level,CONTRACT,NH
@@ -2211,7 +2211,7 @@
 97383,3904957834,Coders Data,Data Analyst,New York City Metropolitan Area,14508644.0,1.0,Entry level,FULL_TIME,Other
 97398,3904958120,Cygnus Professionals Inc.,Big Data Developer,"Tampa, FL",2543692.0,1.0,Mid-Senior level,CONTRACT,FL
 97477,3904959058,Robert Half,Part-Time Data Entry Coordinator,"New Bedford, MA",1681.0,N/A,Mid-Senior level,FULL_TIME,MA
-97499,3904959397,Mitchell Martin Inc.,Data Analyst/Project Manager,"New York, United States",488281.0,N/A,Mid-Senior level,CONTRACT,United States
+97499,3904959397,Mitchell Martin Inc.,Data Analyst/Project Manager,"New York, United States",488281.0,N/A,Mid-Senior level,CONTRACT,NY
 97608,3904960773,Cotiviti,Data Scientist I,United States,20089.0,1.0,Mid-Senior level,FULL_TIME,United States
 97867,3904964022,Digitas North America,"Senior Analyst, Data and Analysis","Chicago, IL",2465.0,N/A,Mid-Senior level,FULL_TIME,IL
 97882,3904964385,Matrix Finance and Accounting,Data Analyst,"Bellevue, WA",479939.0,N/A,Mid-Senior level,CONTRACT,WA
@@ -2285,21 +2285,21 @@
 100536,3905214221,NLB Services,Azure Synapse Data Engineer,United States,490432.0,1.0,N/A,FULL_TIME,United States
 100555,3905215190,Radiansys Inc., Azure Data Architect,"Roseville, CA",537246.0,N/A,Mid-Senior level,CONTRACT,CA
 100616,3905218828,Prodware Solutions,Data Scientist - Transformers - 100% Remote,United States,2045626.0,1.0,Mid-Senior level,CONTRACT,United States
-100617,3905218887,Hyring.com,Senior Data Architect,"Florida, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,United States
+100617,3905218887,Hyring.com,Senior Data Architect,"Florida, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,FL
 100673,3905222559,Telegraph,Data Scientist,United States,79131372.0,1.0,Mid-Senior level,FULL_TIME,United States
 100687,3905223851,ICON Strategic Solutions,Project Data Manager,United States,86001745.0,1.0,Mid-Senior level,FULL_TIME,United States
 100742,3905227114,VySystems,Databricks Architect,United States,1452948.0,1.0,Mid-Senior level,FULL_TIME,United States
 100754,3905227874,Software Technology Inc.,Database Administrator,"Lansing, MI",2935380.0,N/A,Associate,CONTRACT,MI
 100770,3905229532,"American Unit, Inc",Data Engineer,"Tallahassee, FL",51100.0,N/A,Mid-Senior level,CONTRACT,FL
 100783,3905230674,Hexaware Technologies,Lead Data Scientist,United States,164182.0,1.0,Mid-Senior level,FULL_TIME,United States
-100792,3905231554,Hyring.com,Senior Data Architect,"Texas, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,United States
-100794,3905231991,Hyring.com,Senior Data Architect,"Nevada, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,United States
+100792,3905231554,Hyring.com,Senior Data Architect,"Texas, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,TX
+100794,3905231991,Hyring.com,Senior Data Architect,"Nevada, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,NV
 100811,3905233250,Diligente Technologies,Data Engineering Manager ,United States,2552597.0,1.0,Director,FULL_TIME,United States
 100828,3905233984,University of Kentucky,Data Scientist,"Lexington, KY",5998.0,N/A,Mid-Senior level,FULL_TIME,KY
 100881,3905235932,Hireblox,Data Engineer,"Thousand Oaks, CA",91514875.0,N/A,N/A,CONTRACT,CA
 100893,3905236036,Motion Recruitment,Data Analyst,"Audubon, PA",5887.0,1.0,Entry level,CONTRACT,PA
-100894,3905236349,Hyring.com,Senior Data Architect,"Tennessee, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,United States
-100895,3905236493,Hyring.com,Senior Data Architect,"Washington, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,United States
+100894,3905236349,Hyring.com,Senior Data Architect,"Tennessee, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,TN
+100895,3905236493,Hyring.com,Senior Data Architect,"Washington, United States",79086233.0,N/A,Mid-Senior level,FULL_TIME,WA
 100896,3905236540,Hyring.com,Senior Data Architect,United States,79086233.0,1.0,Mid-Senior level,FULL_TIME,United States
 100901,3905236672,Cyma Systems Inc,AWS Data Engineer,"Boston, MA",1792232.0,1.0,N/A,CONTRACT,MA
 100941,3905237756,"Pyramid Consulting, Inc",Digital Data Records Specialist/ Data Entry Specialist,"Tulsa, OK",165602.0,N/A,N/A,CONTRACT,OK
@@ -2331,9 +2331,9 @@
 102661,3905284704,HTC Global Services,Database Administrator - Senior,"Lansing, MI",201351.0,N/A,Mid-Senior level,FULL_TIME,MI
 102854,3905286566,100K Job Hunt,Senior ETL Data Engineer,"Washington, DC",100424216.0,N/A,N/A,FULL_TIME,DC
 102967,3905287553,VolunteerMatch,Volunteer: Database Architect,"Cambridge, MA",22503.0,1.0,Associate,VOLUNTEER,MA
-102979,3905287915,California Department of Developmental Services,RESEARCH DATA SUPERVISOR I,"California, United States",20366228.0,N/A,Mid-Senior level,FULL_TIME,United States
-103077,3905288846,California Department of Developmental Services,RESEARCH DATA SUPERVISOR I,"California, United States",20366228.0,N/A,Mid-Senior level,FULL_TIME,United States
-103113,3905289164,Achieve,Sr. Staff Data Analyst - Marketing Analytics,"Arizona, United States",87147260.0,1.0,Mid-Senior level,FULL_TIME,United States
+102979,3905287915,California Department of Developmental Services,RESEARCH DATA SUPERVISOR I,"California, United States",20366228.0,N/A,Mid-Senior level,FULL_TIME,CA
+103077,3905288846,California Department of Developmental Services,RESEARCH DATA SUPERVISOR I,"California, United States",20366228.0,N/A,Mid-Senior level,FULL_TIME,CA
+103113,3905289164,Achieve,Sr. Staff Data Analyst - Marketing Analytics,"Arizona, United States",87147260.0,1.0,Mid-Senior level,FULL_TIME,AZ
 103155,3905289365,SMX,Army Data Audit Manager (ADAM) Program Support Analyst (Senior) (TS/SCI eligible) (3497),"Fort Belvoir, VA",13011.0,N/A,Mid-Senior level,FULL_TIME,VA
 103180,3905289791,NBCUniversal,Lead Data Engineer,"Universal City, CA",1828.0,N/A,Mid-Senior level,FULL_TIME,CA
 103181,3905289793,NBCUniversal,CDE Data Engineer,"Englewood Cliffs, NJ",1828.0,N/A,Associate,FULL_TIME,NJ
@@ -2357,12 +2357,12 @@
 104101,3905296870,Apex Systems,Sr. Snowflake Azure Data Engineer,"Minneapolis, MN",4787.0,1.0,Mid-Senior level,FULL_TIME,MN
 104361,3905298455,Optima Bio Supply Ltd,data  Entry.,United States,93223209.0,1.0,N/A,FULL_TIME,United States
 104405,3905298558,Apex Systems,Mid Database Analyst,"Newport News, VA",4787.0,N/A,Entry level,FULL_TIME,VA
-104411,3905298572,"DMI (Digital Management, LLC)",Data Engineer,"Maryland, United States",51648.0,N/A,Entry level,FULL_TIME,United States
+104411,3905298572,"DMI (Digital Management, LLC)",Data Engineer,"Maryland, United States",51648.0,N/A,Entry level,FULL_TIME,MD
 104429,3905298740,Apex Systems,Data Center Planning Analyst,"Wilson, NC",4787.0,N/A,Mid-Senior level,CONTRACT,NC
 104602,3905299706,Dice,Data Scientists with Google Cloud Platform exp (10 years),United States,6849.0,1.0,Entry level,FULL_TIME,United States
 104785,3905300706,Bayforce,Senior SAP Data Analyst (No corp to Corp),Greater Chicago Area,72593.0,N/A,Mid-Senior level,CONTRACT,Other
 104958,3905301890,NTT Global Data Centers,Data Center Technician L1,"Garland, TX",51637411.0,N/A,Entry level,FULL_TIME,TX
-104974,3905302037,"DMI (Digital Management, LLC)",Data Architect,"Maryland, United States",51648.0,N/A,Mid-Senior level,FULL_TIME,United States
+104974,3905302037,"DMI (Digital Management, LLC)",Data Architect,"Maryland, United States",51648.0,N/A,Mid-Senior level,FULL_TIME,MD
 105030,3905302427,AMERICAN SYSTEMS,Data Analyst / Technical Writer 3 - Top Secret Clearance,"Fredericksburg, VA",6609.0,N/A,Mid-Senior level,FULL_TIME,VA
 105050,3905302573,Jabil,Data Systems Engineer - Onsite,"Auburn Hills, MI",4852.0,N/A,Entry level,FULL_TIME,MI
 105069,3905302758,Delta Air Lines,IT Data Engineer,"Atlanta, GA",2272.0,N/A,Entry level,FULL_TIME,GA
@@ -2470,7 +2470,7 @@
 111522,3905394151,Meta,"Data Science Manager, Cross-Meta Integrity (XI) Measurement","Menlo Park, CA",10667.0,N/A,N/A,FULL_TIME,CA
 111545,3905394382,Staples,Sr Manager Data & Analytics,"Framingham, MA",3019.0,N/A,Mid-Senior level,FULL_TIME,MA
 111592,3905394725,Cogent Communications,"MS SQL, Database Administrator- Washington DC","Washington, DC",163139.0,N/A,Entry level,FULL_TIME,DC
-111633,3905395317,TELUS International,Senior Teradata Database Administrator,"North Carolina, United States",1258653.0,N/A,Mid-Senior level,FULL_TIME,United States
+111633,3905395317,TELUS International,Senior Teradata Database Administrator,"North Carolina, United States",1258653.0,N/A,Mid-Senior level,FULL_TIME,NC
 111661,3905395589,Cogent Communications,Data Center Operations Manager-Washington DC,"Washington, DC",163139.0,N/A,Mid-Senior level,FULL_TIME,DC
 111699,3905396275,Visa,"Director, Data Science & Advanced Analytics","Austin, TX",2190.0,N/A,Director,FULL_TIME,TX
 111800,3905397535,California Department of Health Care Services,Eligibility and Benefits Data Section Chief (Hybrid Option),"Sacramento, CA",3753860.0,N/A,Entry level,FULL_TIME,CA
@@ -2526,7 +2526,7 @@
 114790,3905835708,BCforward,Data Coordinator,"Boston, MA",947715.0,N/A,Associate,CONTRACT,MA
 114817,3905836313,Selby Jennings,Data Privacy Specialist,"Chicago, IL",106584.0,N/A,Associate,FULL_TIME,IL
 114824,3905836478,ALOIS Solutions,Databricks Data Architect,"Dublin, OH",13242175.0,N/A,Mid-Senior level,FULL_TIME,OH
-114853,3905837592,DRS IT Solutions Inc,Data Warehouse Engineer – Hybrid@ CO/ MN. ,"Colorado, United States",18675058.0,N/A,Mid-Senior level,CONTRACT,United States
+114853,3905837592,DRS IT Solutions Inc,Data Warehouse Engineer – Hybrid@ CO/ MN. ,"Colorado, United States",18675058.0,N/A,Mid-Senior level,CONTRACT,CO
 115047,3905842814,Radley James,Database Manager,"Chicago, IL",1116353.0,N/A,Mid-Senior level,FULL_TIME,IL
 115052,3905842941,Solü Technology Partners,Sr Data Analyst,"Phoenix, AZ",2587248.0,N/A,Mid-Senior level,CONTRACT,AZ
 115060,3905843043,Marathon Health,Lead Data Analyst,"Burlington, VT",727156.0,1.0,N/A,FULL_TIME,VT
@@ -2540,7 +2540,7 @@
 115644,3905853926,GRANT PETERS ASSOCIATES,Data Engineer,New York City Metropolitan Area,93958466.0,N/A,N/A,FULL_TIME,Other
 115686,3905854687,Lexical Intelligence,Data Analyst (Junior),Washington DC-Baltimore Area,3299509.0,N/A,N/A,FULL_TIME,Other
 115708,3905854984,DRS IT Solutions Inc,Database Administrator,"Hartford, CT",18675058.0,N/A,Mid-Senior level,CONTRACT,CT
-115745,3905855625,TELUS International AI Data Solutions,Online Data Analyst | Work From Home,"North Carolina, United States",6611939.0,1.0,Entry level,PART_TIME,United States
+115745,3905855625,TELUS International AI Data Solutions,Online Data Analyst | Work From Home,"North Carolina, United States",6611939.0,1.0,Entry level,PART_TIME,NC
 115808,3905856947,"Pyramid Consulting, Inc",Data Analytics Consultant / / Analytics - Data Contractor,"Atlanta, GA",165602.0,N/A,N/A,CONTRACT,GA
 115910,3905858707,NAM Info Inc,Azure Lead Data Engineer,United States,1909776.0,1.0,Mid-Senior level,CONTRACT,United States
 115920,3905858962,Talent Groups,Senior Oracle Database Administrator,"Lansing, MI",51701268.0,N/A,Mid-Senior level,CONTRACT,MI
@@ -2582,21 +2582,21 @@
 117352,3905885194,Dice,Business Data Analyst,"Portland, OR",6849.0,N/A,Mid-Senior level,FULL_TIME,OR
 117355,3905885197,Dice,Adobe Data Engineer || Remote,United States,6849.0,1.0,Entry level,FULL_TIME,United States
 117373,3905885501,WEX,"Data Scientist III, Innovation","Portland, ME",11637.0,N/A,Entry level,FULL_TIME,ME
-117377,3905885764,Zyxware Technologies,Data Science Analyst - Full Time,"Maryland, United States",711088.0,N/A,Mid-Senior level,FULL_TIME,United States
+117377,3905885764,Zyxware Technologies,Data Science Analyst - Full Time,"Maryland, United States",711088.0,N/A,Mid-Senior level,FULL_TIME,MD
 117416,3905886092,Dice,"SAP Data Analyst, MN/Remote - Direct Client","Maplewood, MN",6849.0,N/A,Entry level,FULL_TIME,MN
 117455,3905887021,Dice,Data Scientist,"Pensacola, FL",6849.0,N/A,Entry level,FULL_TIME,FL
 117557,3906064342,"Triumph Innovation, LLC",Data Engineer / Power BI Developer,United States,95050725.0,1.0,N/A,CONTRACT,United States
 117656,3906071953,Real Staffing,"Director/Senior Director, Clinical Data Management (Hybrid)","New York, NY",1012623.0,N/A,Director,FULL_TIME,NY
 117735,3906074575,City of Phoenix,Senior Oracle Database Administrator (Senior Information Technology Systems Specialist),"Phoenix, AZ",10876.0,N/A,Associate,FULL_TIME,AZ
 117781,3906075814,Info Way Solutions,Data Analyst or Data Product Manager (Native US Citizens Only),"Austin, TX",3998479.0,N/A,Mid-Senior level,CONTRACT,TX
-117808,3906076134,Motion Recruitment,Risk Data Governance consultant,"New York, United States",5887.0,N/A,Mid-Senior level,CONTRACT,United States
+117808,3906076134,Motion Recruitment,Risk Data Governance consultant,"New York, United States",5887.0,N/A,Mid-Senior level,CONTRACT,NY
 117842,3906077094,Educated Solutions Corp,Data Engineer,United States,1468533.0,1.0,Associate,FULL_TIME,United States
 117877,3906078214,Harnham,Lead Data Engineer,"New York, NY",280603.0,1.0,Mid-Senior level,CONTRACT,NY
 117890,3906078751,Harnham,Senior Data Engineer,United States,280603.0,1.0,Mid-Senior level,CONTRACT,United States
 118019,3906085300,Atmospheric G2,Meteorological Data Scientist,"Manchester, NH",79693228.0,N/A,N/A,FULL_TIME,NH
 118026,3906085828,"ActiveSoft, Inc",Lead Data Governance Analyst,"Rensselaer, NY",267430.0,N/A,Mid-Senior level,CONTRACT,NY
 118051,3906087525,Godshall Recruiting,Laboratory Data Reviewer ,"Greenville, SC",143796.0,N/A,N/A,FULL_TIME,SC
-118178,3906091847,Vertisystem,Data Analyst,"Pennsylvania, United States",3009879.0,1.0,Mid-Senior level,CONTRACT,United States
+118178,3906091847,Vertisystem,Data Analyst,"Pennsylvania, United States",3009879.0,1.0,Mid-Senior level,CONTRACT,PA
 118241,3906092685,PMG GLOBAL,Data Conversion Analyst,Raleigh-Durham-Chapel Hill Area,1498833.0,N/A,Mid-Senior level,CONTRACT,Other
 118279,3906092917,One to One Health,Data Scientist,"Chattanooga, TN",3341847.0,N/A,N/A,FULL_TIME,TN
 118458,3906095457,Raas Infotek,Datacenter Operations Manager,"Fort Washington, PA",5352294.0,N/A,Mid-Senior level,CONTRACT,PA
@@ -2606,7 +2606,7 @@
 118833,3906201133,"InfoVision21, Inc",Database Administrator,"Columbus, OH",2426405.0,N/A,Mid-Senior level,CONTRACT,OH
 118854,3906202151,Volto Consulting,Data Architect,United States,81897394.0,1.0,Mid-Senior level,FULL_TIME,United States
 119222,3906223436,Marvell Technology,Data Center Networking Software Product Manager,"Santa Clara, CA",3772.0,N/A,Mid-Senior level,FULL_TIME,CA
-119223,3906223439,Bayforce,Data Engineering Lead (Permanent Direct Hire),"New York, United States",72593.0,N/A,Mid-Senior level,FULL_TIME,United States
+119223,3906223439,Bayforce,Data Engineering Lead (Permanent Direct Hire),"New York, United States",72593.0,N/A,Mid-Senior level,FULL_TIME,NY
 119283,3906223755,Elevate,Data Architect II,"Fort Worth, TX",3715155.0,N/A,Mid-Senior level,FULL_TIME,TX
 119394,3906224477,Solü Technology Partners, SR SQL Server Database Developer,"Phoenix, AZ",2587248.0,N/A,Mid-Senior level,FULL_TIME,AZ
 119444,3906224769,Salesforce,"Managing Director, Data & AI Business Innovation","New York, NY",3185.0,N/A,N/A,FULL_TIME,NY
@@ -2625,8 +2625,8 @@
 120434,3906230083,Optima Bio Supply Ltd,Data  Entry Clerk,United States,93223209.0,1.0,N/A,FULL_TIME,United States
 120555,3906230754,PrimePay,Data Analyst,"West Chester, PA",21408.0,1.0,Entry level,FULL_TIME,PA
 120576,3906230993,PACCAR Technical Center,Summer Internship 2024 - Data Systems Instrumentation Intern,"Mount Vernon, WA",82812960.0,N/A,Internship,FULL_TIME,WA
-120644,3906231354,Chicago Trading Company,"Engineer, Reference Data","New York, United States",21004.0,N/A,Entry level,CONTRACT,United States
-120662,3906231436,Bayforce,Data Engineer,"New York, United States",72593.0,N/A,Mid-Senior level,FULL_TIME,United States
+120644,3906231354,Chicago Trading Company,"Engineer, Reference Data","New York, United States",21004.0,N/A,Entry level,CONTRACT,NY
+120662,3906231436,Bayforce,Data Engineer,"New York, United States",72593.0,N/A,Mid-Senior level,FULL_TIME,NY
 120831,3906233005,Conexess Group,Claims Data Steward (Remote),"Denver, CO",746297.0,1.0,Entry level,FULL_TIME,CO
 120895,3906233337,Cotiviti,Data Integration Specialist Analytic IT,United States,20089.0,1.0,Entry level,FULL_TIME,United States
 121198,3906237017,N/A,Data Entry Operator,United States,N/A,1.0,N/A,FULL_TIME,United States
